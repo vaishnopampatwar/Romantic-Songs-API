@@ -253,6 +253,42 @@
        ],
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
+{
+    "id":19,
+       "name":"Tune O Rangeele",
+       "lyrics":"https://www.hinditracks.in/tune-o-rangeele-lyrics-kudrat",
+       "album":"Kudrat",
+       "Duration":"3 min 55 sec",
+       "singer":[
+          "Lata Mangeshkar"
+       ],
+       "link":"https://www.youtube.com/watch?v=_9lKgL2ISaY"
+    
+},
+{
+    "id":20,
+       "name":"Khairiyat",
+       "lyrics":"https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
+       "album":"Chhichhore",
+       "Duration":"4 min 58 sec",
+       "singer":[
+          "Arijit Singh"
+       ],
+       "link":"https://www.youtube.com/watch?v=9-AKLAfpjrI"
+    
+},
+{
+    "id":21,
+       "name":"Kaun Tujhe",
+       "lyrics":"https://www.lyricsmint.com/ms-dhoni/kaun-tujhe",
+       "album":"M.S.Dhoni",
+       "Duration":"4 min 00 sec",
+       "singer":[
+          "Amaal Mallik Palak"
+       ],
+       "link":"https://www.youtube.com/watch?v=Ov0YGGSY6gY"
+    
+},
     {
        "id":19,
        "name":"You",
