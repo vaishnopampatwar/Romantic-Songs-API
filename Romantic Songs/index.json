@@ -220,6 +220,13 @@
 
 {
        "id":13,
+       "name":"tum hi ho",
+       "lyrics":"https://gaana.com/lyrics/mast-magan-1",
+       "album":"aashiqui 2",
+       "Duration":"4 min 40 sec",
+       "singer":[
+          "Arijit Singh",
+          "palak muchale"],
        "name":"Ik Tu Hai",
        "lyrics":"tu hai john abraham ",
        "album":"Romance",
@@ -355,9 +362,9 @@
        "singer":[
           "suraj mali",
        ],
-       "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
+       "link":"https://youtu.be/fXRvluHnjxE"
     },
-  
+{  
 
        "id":20,
        "name":"You",
