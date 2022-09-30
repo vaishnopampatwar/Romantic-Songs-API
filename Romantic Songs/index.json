@@ -215,5 +215,51 @@
           "Ed Sheeran",
        ],
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
-    }
+    },
+	{
+		"id": 19,
+		"name": "Tum hi ho",
+		"lyrics": "https://www.ilyricshub.com/tum-hi-ho/",
+		"album": "Aashiqui 2",
+		"Duration": "2 min 52 sec",
+		"singer": ["Arijit Singh", "Pritam"],
+		"link": "https://www.youtube.com/watch?v=0KZqYXQZJzU"
+	},
+
+	{
+		"id": 20,
+		"name": "Dil diyan gallan",
+		"lyrics": "https://www.lyricsmint.com/tiger-zinda-hai/dil-diyan-gallan",
+		"album": "Tiger Zinda Hai",
+		"Duration": "3 min 51 sec",
+		"singer": ["Shreya Ghoshal", " Atif Aslam"],
+		"link": "https://www.youtube.com/watch?v=2CvBq9K9GWM"
+	},
+	{
+		"id": 21,
+		"name": "Pyar hua ikraar hua",
+		"lyrics": "https://www.lyricsmint.com/pyar-hua-ikraar-hua-lyrics",
+		"album": "Kati patang",
+		"Duration": "4 min 51 sec",
+		"singer": ["Kishore Kumar"],
+		"link": "https://www.youtube.com/watch?v=ZQY2mJZ7X7I"
+	},
+	{
+		"id": 22,
+		"name": "Photograph",
+		"lyrics": "https://www.azlyrics.com/lyrics/edsheeran/photograph.html",
+		"album": "X",
+		"Duration": "4 min 19 sec",
+		"singer": ["Ed Sheeran"],
+		"link": "https://www.youtube.com/watch?v=nSDgHBxUbVQ"
+	},
+	{
+		"id": 23,
+		"name": "Ishq wala love",
+		"lyrics": "https://www.lyricsmint.com/ishq-wala-love-lyrics",
+		"album": "Student of the year",
+		"Duration": "2 min 52 sec",
+		"singer": ["Arijit Singh", "Pritam"],
+		"link": "https://www.youtube.com/watch?v=ZQY2mJZ7X7I"
+	}
 ]   
