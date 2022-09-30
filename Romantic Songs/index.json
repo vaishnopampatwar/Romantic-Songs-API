@@ -169,8 +169,9 @@
        ],
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
     },
+
     {
-       "id":17,
+       "id":18,
        "name":"Mask Off",
        "lyrics":"https://www.lyrics.com/lyric/33748508/Mask+Off",
        "album":"Future",
@@ -179,7 +180,33 @@
           "Future"
        ],
        "youtube.com/watch?v=xvZqHgFz51I"
+    },
+{
+       "id":14,
+       "name":"Kesariya",
+       "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
+       "album":"Brahmastra",
+       "Duration":"2 min 52 sec",
+       "singer":[
+          "Arijit Singh",
+          "Pritam"
+       ],
+       "link":"https://youtu.be/BddP6PYo2gs"
+    },
+
+{
+       "id":12,
+       "name":"Cham Cham",
+       "lyrics":"https://www.lyricsmint.com/baaghi/cham-cham",
+       "album":"Monsoon Romance",
+       "Duration":"3 min 51 sec",
+       "singer":[
+          "Monali Thakur",
+          "Meet Bros"
+       ],
+       "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
     }
+
 
     
 ]   
