@@ -217,7 +217,18 @@
        ],
        "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
     },
-
+{
+       "id":19,
+       "name":"Tera Chehra",
+       "lyrics":"https://www.jiosaavn.com/lyrics/tera-chehra-from-tera-chehra-lyrics/IA5bax10cGA",
+       "album":"sanam teri kasam",
+       "Duration":"4 min 25 sec",
+       "singer":[
+          "Arijit Singh",
+          "Himesh Reshammiya"
+       ],
+       "link":"https://www.youtube.com/watch?v=i6fuIGIzaAs&ab_channel=ErosNowMusic"
+    },
 {
        "id":13,
        "name":"tum hi ho",
@@ -550,7 +561,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=MFommhp4XVk&ab_channel=IshtarMusic"
 },
-    
         {
        "id":25,
        "name":"Shaayraana",
