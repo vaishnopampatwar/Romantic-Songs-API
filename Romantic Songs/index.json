@@ -157,7 +157,6 @@
           "Alan Walker"
        ],
        "link":"https://www.youtube.com/watch?v=GPvBmcoriNo"
-
     },
     {
        "id":12,
@@ -625,8 +624,18 @@
           "Fuji Kaze"
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-
 },
+    {
+        "id":14,
+        "name":"lag ja gale",
+        "lyrics":"https://gaana.com/lyrics/lag-ja-gale-8",
+        "album":"Woh kaun thi",
+        "Duration":"4 min 18 sec",
+        "singer":[
+           "Lata Mangeshkar"
+        ],
+        "link":"https://www.youtube.com/watch?v=TFr6G5zveS8"
+    },
 {
        "id":30,
        "name":"Teri hogaiyaan",
@@ -771,7 +780,6 @@
        "album":"YEllow Diary",
        "Duration":"3 min 02 sec",
        "singer":[
-          
            "Shilpa Rao"
        ],
        "link":"https://www.youtube.com/watch?v=xOsZj48vXGA&ab_channel=SonyMusicIndia"
@@ -820,8 +828,7 @@
           "One Direction"
        ],
        "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
-    }
-
+    },
  {
        "id":31,
        "name":"Aayat",
