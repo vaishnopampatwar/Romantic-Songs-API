@@ -254,8 +254,6 @@
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
     {
-
-
        "id":19,
        "name":"You",
        "lyrics":"https://www.lyricsgoal.com/you-armaan-malik/",
@@ -277,7 +275,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=ThPinA3THas"
     },
-
 {
        "id":101,
        "name":"Shinunoga E-Wa",
@@ -303,6 +300,18 @@
        ],
        "link":"https://www.youtube.com/watch?v=aDFEb_W2t1Y"
     },
+{ 
+    "id":47,'
+    "name":"So far away",
+    "lyrics":"https://www.azlyrics.com/lyrics/martingarrix/sofaraway.html",
+    "album":"X",
+    "Duration":"3 min 4 sec",
+    "singer":[
+    "Jamie Scott",
+    "Ramy Dya"
+    ],
+    "link":"https://youtu.be/o7iL2KzDh38"
+  },
 {
        "id":101,
        "name":"Phir na aisi raat ayegi",
@@ -602,4 +611,4 @@
        ],
        "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
     },
-]   
+] 
