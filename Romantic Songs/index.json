@@ -331,8 +331,6 @@
      ],
      "link":"https://www.youtube.com/watch?v=ThPinA3THas"
   },
-
-
   {
      "id":21,
      "name":"Pal",
@@ -976,6 +974,17 @@
        "Duration":"4 min 23 sec",
        "singer":[
           "Ed Sheeran"
+       ],
+       "link":"https://www.youtube.com/watch?v=1rz1aug2Ypc"
+    },
+    {
+       "id":12,
+       "name":"The lady in red",
+       "lyrics":"https://www.azlyrics.com/lyrics/chrisdeburgh/theladyinred.html",
+       "album":" Into The Light",
+       "Duration":"4 min 17 sec",
+       "singer":[
+          "Chris de Burgh"
        ],
        "link":"https://www.youtube.com/watch?v=JGwWNGJdvx8&ab_channel=EdSheeran"
 },
