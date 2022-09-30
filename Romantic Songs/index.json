@@ -169,6 +169,7 @@
           "Ashwani Machal"
        ],
        "link":"https://www.youtube.com/watch?v=UHy6P8EHIL4"
+
     },
      {
        "id":12,
@@ -188,32 +189,10 @@
        "album":"Monsoon Romance",
        "Duration":"4 min 12 sec",
        "singer":[
-          "Arijit Singh"
+          "Stebin Ben",
+          "Payal Dev"
        ],
-       "link":"https://www.youtube.com/watch?v=Iqu_W5W4YO4"
-    },
-{
-       "id":12,
-       "name":"DEKHA HAZARON DAFA APKO",
-       "lyrics":"https://genius.com/Arijit-singh-dekha-hazaro-dafaa-lyrics",
-       "album":"ROMANCE",
-       "Duration":"3:50",
-       "singer":[
-          "ARIJIT SINGH",
-          "PALAK MUCHHAL"
-       ],
-       "link":"https://www.bing.com/videos/search?q=dekha+hazaro+dafa+SINGERS&view=detail&mid=FE9573C0536904EA6E71FE9573C0536904EA6E71&FORM=VIRE"
-    },
-    {
-       "id":18,
-       "name":"Mask Off",
-       "lyrics":"https://www.lyrics.com/lyric/33748508/Mask+Off",
-       "album":"Future",
-       "Duration":"3 min 23 sec",
-       "singer":[
-          "Future"
-       ],
-       "youtube.com/watch?v=xvZqHgFz51I"
+       "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
     },
     {
        "id":17,
@@ -328,7 +307,7 @@
        "singer":[
           "Ed Sheeran"
        ],
-       "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
+       "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
 {
        "id":14,
@@ -431,6 +410,7 @@
        "link":"https://youtu.be/fXRvluHnjxE"
     },
 {  
+
        "id":20,
        "name":"You",
        "lyrics":"https://www.lyricsgoal.com/you-armaan-malik/",
@@ -545,30 +525,8 @@
        ],
        "link":"https://www.youtube.com/watch?v=O9U-KO90tnc&ab_channel=RBLyricsLover"
     },
-    {
-       "id":12,
-       "name":"The best part",
-       "lyrics":"https://www.google.com/search?q=the+best+part&rlz=1C1RLNS_enIN1017IN1017&oq=the+best+part&aqs=chrome.0.0i355i512j46i512j0i512j46i512l3j0i512l4.4486j0j15&sourceid=chrome&ie=UTF-8",
-       "album":" Freudian",
-       "Duration":"2 min 12 sec",
-       "singer":[
-          "olivia rodrigo"
-       ],
-       "link":"https://www.youtube.com/watch?v=i2KQ89HALdo"
-    },
+{
 
-{
-       "id":17,
-       "name":"Tu Hi Haqeeqat",
-       "lyrics":"https://genius.com/Pritam-tu-hi-haqeeqat-lyrics",
-       "album":"Tum Mile",
-       "Duration":"5 min 37 sec",
-       "singer":[
-          "Javed Ali"
-       ],
-       "link":"https://www.youtube.com/watch?v=x3bJeJDgRJQ"
-    },
-{
     "id":151,
        "name":"Mazak",
        "lyrics":"https://themusicalsafari.com/mazaak-lyrics-anuv-jain/",
@@ -578,8 +536,7 @@
           "Anuv Jain",
        ],
        "link":"https://www.youtube.com/watch?v=zx0YGEi32r0"
-},
-{
+},{
         "id": 24,
         "name": "Musafir",
         "lyrics":"https://www.azlyrics.com/lyrics/atifaslam/musafir.html",
@@ -807,5 +764,17 @@
           "One Direction"
        ],
        "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
+    },
+{
+       "id":30,
+       "name":"Bheegi Si Bhaagi Si",
+       "lyrics":"https://huntmylyrics.com/lyrics/bheegi-si-bhaagi-si/",
+       "album":"Raajneeti",
+       "Duration":"4 min 17 sec",
+       "singer":[
+          " Antara Mitra, Mohit Chauhan, and Pritam Chakraborty
+"
+       ],
+       "link":"https://www.youtube.com/watch?v=yHWPO9DDnsk"
     }
 ] 
