@@ -821,4 +821,16 @@
        ],
        "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
     }
+
+ {
+       "id":31,
+       "name":"Aayat",
+       "lyrics":"https://www.lyricsmint.com/bajirao-mastani/aayat",
+       "album":"Bajirao Mastani",
+       "Duration":"4 min 32 sec",
+       "singer":[
+          "Arijit Singh"
+       ],
+       "link":"https://www.youtube.com/watch?v=vKDsAB1ccn0"
+    }
 ] 
