@@ -511,6 +511,23 @@
        "lyrics":"https://www.google.com/search?client=avast-a-1&sxsrf=ALiCzsbbwIOugRebvHsQ8W4dpDzm8_M4ew:1664549653174&q=Stebin+Ben+Baarish+Ban+Jaana&stick=H4sIAAAAAAAAAE2UvY_URhjGdxex2fNBtLsgQCcULVtEp5Ngx15_0hwC0pCgRHAFQojVeuyx1-sZez7wV8k_AKK4FgkEQoiSpEiRAF0oriASFUInOhpooxSIRSfPXmGNf37k93ned8buHBweHgUjVWWI6CDQHe17luApETM44AkJ-Ovmnh4iS2VhENdM7bwodF2rmXFGeFbqNQs9T13boVInFsexZdecgjGNPSJ1AQRjgMn6dZ6aUcwnWukYNXPVqhxXiJpx6gqzWupQS62KRdIPaaGnGjqS_hXSM5SGNUcohA6Fst8oBVwzIiyZOnoE5jIPKaieRVjqaZm7nJTBkisG5mMm-0mLiNmFzMMEs7DwKskVLa3SkPU4KIBeRpFkLfZCbMp58XHBTAJlHp4Ll1q2rC9MHPMoSGX_GNHMypf7ORlPYGjI_Qp5QQuVQtlv7tk8xHK-KcJpXuJ033wdZwwle17paVUFl_M29dz20D42OcVuza5pjamlzl83D31jDowsyzRTommqY0-mi0BW2ibLpbtJDTWlYJmm1AFA9n630FhOH8a8MOFYlToD0AWTrOYA4MBhWbAvjUE0OSxkBXyCPXm4cFEhSxjsQ_N5a7X78b_3R9aetu49--dt82FL6f6SJNyPyyt-PBW-t5X0TyvtnxZflCj7h9dWlZURHgE1LQKqHVX26s3NOQw9O-3e391u9ufK6lVfbCWXE2-Gyv6N_nVl5bKPXZ_xX1EfKMqFJI59KGYJ6Q_XBsoPIygfjJgPE-bNSDCB8S0uFu8Mj1_pfLPUWYz27iwdiRfN1tnWemtItZt_vtneaV_rnek1Go_f_XZubX2jp7QvLv4CM9Jjj2583Nl-s7lxROlsTYuEJLjsKT_3Bt0_Pm0OT6183jm7e-H5u83e73e-TF4e-_HFiQODxnpD_fftd7vtyf9_bzQWRrf_evKq3ek0uw2t1WlUjUMPDp68Knx3Rgbn_cU1nbIZDxcrGVyaTsn0brv5FV1AcTeYBAAA&sa=X&ved=2ahUKEwj5-abW4rz6AhUDm-YKHXBAD1MQri56BAgHEBo",
        "album":"Monsoon Romance",
        "Duration":"4 min 12 sec",
+       "singer":[
+          "Stebin Ben",
+          "Payal Dev"
+       ],
+       "link":"https://www.bing.com/videos/search?q=dekha+hazaro+dafa+SINGERS&view=detail&mid=FE9573C0536904EA6E71FE9573C0536904EA6E71&FORM=VIRE"
+    },
+    {
+       "id":18,
+       "name":"Mask Off",
+       "lyrics":"https://www.lyrics.com/lyric/33748508/Mask+Off",
+       "album":"Future",
+       "Duration":"3 min 23 sec",
+       "singer":[
+          "Future"
+       ],
+       "link" : "youtube.com/watch?v=xvZqHgFz51I"
+
        "singer":["Stebin Ben","Payal Dev"],
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
      },
@@ -522,6 +539,7 @@
         "Duration":"2 min 1 sec",
         "singer":["Jubin Nautiyal"],
         "link":"https://www.youtube.com/watch?v=UaWe1REc81w"
+
     },
     {
        "id":17,
@@ -644,7 +662,7 @@
        "album":"X",
        "Duration":"3 min 57 sec",
        "singer":[
-          "Taylor swift",
+          "Taylor swift"
        ],
        "link":"https://www.youtube.com/watch?v=nSDgHhjBxUbVQ"
     },
@@ -733,7 +751,7 @@
        "album":"G",
        "Duration":"5 min 19 sec",
        "singer":[
-          "suraj mali",
+          "suraj mali"
        ],
        "link":"https://youtu.be/fXRvluHnjxE"
     },
@@ -793,6 +811,19 @@
            "Shreya Ghoshal"
        ],
        "link":"https://www.youtube.com/watch?v=aDFEb_W2t1Y"
+},
+{ 
+    "id":47,
+    "name":"So far away",
+    "lyrics":"https://www.azlyrics.com/lyrics/martingarrix/sofaraway.html",
+    "album":"X",
+    "Duration":"3 min 4 sec",
+    "singer":[
+    "Jamie Scott",
+    "Ramy Dya"
+    ],
+    "link":"https://youtu.be/o7iL2KzDh38"
+  },
     },
 {
        "id":101,
@@ -889,13 +920,35 @@
        "link":"https://www.youtube.com/watch?v=x3bJeJDgRJQ"
     },
 {
+        "id":151,
+       "name":"Mazak",
+       "lyrics":"https://themusicalsafari.com/mazaak-lyrics-anuv-jain/",
+       "album":"Mazak",
+       "Duration":"3 min 53 sec",
+       "singer":[
+          "Anuv Jain"
+       ],
+       "link":"https://www.youtube.com/watch?v=zx0YGEi32r0"
+},{
+        "id": 24,
+        "name": "Musafir",
+        "lyrics":"https://www.azlyrics.com/lyrics/atifaslam/musafir.html",
+        "album":"Sweetiee weds NRI",
+        "Duration":"3 min",
+        "singer":[
+            "Atif Aslam",
+            "Palak Muchhal"
+        ],
+        "link":"https://youtu.be/fRD_3vJagxk"
+    },
+    {
        "id":33,
        "name":"Sun raha hai na",
        "lyrics":"https://www.lyricsoff.com/songs/sun-raha-hai-na-tu-aashiqui-2.html",
        "album":"Aashiqui 2",
        "Duration":"8 min 35 sec",
        "singer":[
-          "ANKIT TIWARI",
+          "ANKIT TIWARI"
        ],
        "link":"https://www.youtube.com/watch?v=eHRrZ5DQCV4"
     },
@@ -1135,6 +1188,17 @@
        ],
        "link":"https://www.youtube.com/watch?v=jUhMKjfc5yc"
     },
+ {
+       "id":30,
+       "name":"Do Gallan",
+       "lyrics":"https://genius.com/Garry-sandhu-do-gallan-lets-talk-lyrics",
+       "album":"Let's Talk",
+       "Duration":"4 min 37 sec",
+       "singer":[
+          "Garry Sandhu"
+       ],
+       "link":"https://www.youtube.com/watch?v=SEyzZw7xiPo"
+   },
 {
        "id":909,
        "name":"Love me like you do",
