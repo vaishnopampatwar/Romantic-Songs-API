@@ -315,19 +315,6 @@
         ],
         "link":"https://www.youtube.com/watch?v=DS-raAyMxl4"
     },
-
-{
-        "id": 23,
-        "name": "Infinity",
-        "lyrics":" https://www.google.com/search?q=infinity+lyrics&rlz=1C1YTUH_enIN933IN933&oq=infinity+lyrics&aqs=chrome..69i57j0i512l9.4966j1j7&sourceid=chrome&ie=UTF-8",
-        "album":"Infinity",
-        "Duration":"3 min 58 sec",
-        "singer":[
-            "James Young",
-        ],
-        "link":"https://www.youtube.com/watch?v=mo6sujHsXPk"
-    },
-
     {
        "id":23,
        "name":"rang de basanti",
@@ -339,6 +326,17 @@
           "Pritam"
        ],
        "link":"https://youtu.be/BddP6PYo2gs"
+    },
+{
+       "id":33,
+       "name":"Sun raha hai na",
+       "lyrics":"https://www.lyricsoff.com/songs/sun-raha-hai-na-tu-aashiqui-2.html",
+       "album":"Aashiqui 2",
+       "Duration":"8 min 35 sec",
+       "singer":[
+          "ANKIT TIWARI",
+       ],
+       "link":"https://www.youtube.com/watch?v=eHRrZ5DQCV4"
     },
 
 
@@ -352,9 +350,46 @@
           "Fuji Kaze"
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-    },
+},
+{
+       "id":30,
+       "name":"Teri hogaiyaan",
+       "lyrics":"https://lyricsmama.com/teri-hogaiyaan-lyrics-vishal-mishra/",
+       "album":"Broken But Beautiful Season 2",
+       "Duration":"2 min 53 sec",
+       "singer":[
+           "Vishal Mishra"
+       ],
+       "link":"https://www.youtube.com/watch?v=6QoBpFUX6CE"
+   },
+
     {
        "id":25,
+       "name":"Dil ne yeh kaha hain dil se",
+       "lyrics":"https://gaana.com/lyrics/dil-ne-yeh-kaha-hain-dil-se",
+       "album":"Dhadkan",
+       "Duration":"7 min 33 sec",
+       "singer":[
+          "Alka Yagnik",
+          "Udit Narayan"
+       ],
+       "link":"https://www.youtube.com/watch?v=MFommhp4XVk&ab_channel=IshtarMusic"
+},
+    
+        {
+       "id":25,
+       "name":"Shaayraana",
+       "lyrics":"https://www.lyricsmint.com/holiday/shaayraana",
+       "album":"Holiday",
+       "Duration":"4 min 36 sec",
+       "singer":[
+          "Arjit Singh"
+       ],
+       "link":"https://www.youtube.com/watch?v=6HUYAfCB728"
+},
+
+    {
+       "id":26,
        "name":"Kesariya",
        "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
        "album":"Romance",
@@ -375,5 +410,74 @@
            "Sunidhi Chauhan"
        ],
        "link":"https://www.youtube.com/watch?v=qtz5mpvgAM0"
-    }
+    },
+ {
+       "id":26,
+       "name":"Jaan BAn Gaye",
+       "lyrics":"https://www.lyricsmint.com/khuda-haafiz/jaan-ban-gaye",
+       "album":"Romance",
+       "Duration":"3 min 43 sec",
+       "singer":[
+          "Mithoon",
+        "Vishal Mishra",
+        "Asees Kaur"
+       ],
+       "link":"https://youtu.be/a6cJAFFQn_I"
+    },
+    {
+    "id":25,
+    "name":"Rang Lageya",
+    "lyrics":"https://www.lyricsbull.com/rang-lageya-mohit-chauhan/",
+    "album":"Romance",
+    "Duration":"4 min 22 sec",
+    "singer":[
+    "Mohit Chauhan"
+    ],
+"link":"https://www.youtube.com/watch?v=Qg-jcTYM5DQ"
+},
+    {
+    "id":26,
+    "name":"mere samne wali khidki me",
+    "lyrics":"https://www.hinditracks.in/mere-samne-wali-khidki-mein-lyrics",
+    "album":"Romance",
+    "Duration":"4 min 40 sec",
+    "singer":[
+    "Kishor kumar"
+    ],
+"link":"https://youtu.be/S0WPSYFm7iE"
+},
+ {
+    "id":27,
+    "name":"bol do na zara",
+    "lyrics":"https://www.ilyricshub.com/bol-do-na-zara-azhar-armaan-malik/",
+    "album":"Romance",
+    "Duration":"4 min 23 sec",
+    "singer":[
+    "Armaan Malik"
+    ],
+"link":"https://www.youtube.com/watch?v=f9_C8J4gqzQ"
+},
+{
+       "id":27,
+       "name":"Roz Roz",
+       "lyrics":"https://www.originallyric.com/roz-roz-lyrics-the-yellow-diary-shilpa-rao/",
+       "album":"YEllow Diary",
+       "Duration":"3 min 02 sec",
+       "singer":[
+          
+           "Shilpa Rao"
+       ],
+       "link":"https://www.youtube.com/watch?v=xOsZj48vXGA&ab_channel=SonyMusicIndia"
+    },
+{
+    "id":27,
+    "name":"Janib",
+    "lyrics":"https://www.lyricsmint.com/dilliwaali-zaalim-girlfriend/janib",
+    "album":"Romance",
+    "Duration":" min 52 sec",
+    "singer":[
+    "Arihit Singh"
+    ],
+"link":"https://www.youtube.com/watch?v=YbJXFwAkz2c"
+}
 ]   
