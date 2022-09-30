@@ -204,7 +204,6 @@
        ],
        "link":"https://youtu.be/BddP6PYo2gs"
     },
-
     {
        "id":16,
        "name":"Cham Cham",
@@ -218,6 +217,17 @@
        "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
     },
 {
+       "id":13,
+       "name":"Dil Deewana, Maine Pyar Kiya",
+       "lyrics":"Asad Bhopali",
+       "album":"Monsoon Romance",
+       "Duration":"4 min 39 sec",
+       "singer":[
+          "S. P. Balasubrahmanyam"
+       ],
+       "link":"https://www.youtube.com/watch?v=JlmO1qHUwro"
+    },
+    {
        "id":19,
        "name":"Tera Chehra",
        "lyrics":"https://www.jiosaavn.com/lyrics/tera-chehra-from-tera-chehra-lyrics/IA5bax10cGA",
@@ -231,13 +241,6 @@
     },
 {
        "id":13,
-       "name":"tum hi ho",
-       "lyrics":"https://gaana.com/lyrics/mast-magan-1",
-       "album":"aashiqui 2",
-       "Duration":"4 min 40 sec",
-       "singer":[
-          "Arijit Singh",
-          "palak muchale"],
        "name":"Ik Tu Hai",
        "lyrics":"tu hai john abraham ",
        "album":"Romance",
@@ -248,7 +251,6 @@
        ],
        "link":"tu hai john abraham "
     },
-
     {
        "id":17,
        "name":"Pyaar dewana hota hai",
@@ -291,7 +293,6 @@
 		"singer": ["Arijit Singh", "Pritam"],
 		"link": "https://www.youtube.com/watch?v=0KZqYXQZJzU"
 	},
-
 	{
 		"id": 20,
 		"name": "Dil diyan gallan",
