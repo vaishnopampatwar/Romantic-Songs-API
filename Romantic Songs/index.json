@@ -315,6 +315,19 @@
         ],
         "link":"https://www.youtube.com/watch?v=DS-raAyMxl4"
     },
+
+{
+        "id": 23,
+        "name": "Infinity",
+        "lyrics":" https://www.google.com/search?q=infinity+lyrics&rlz=1C1YTUH_enIN933IN933&oq=infinity+lyrics&aqs=chrome..69i57j0i512l9.4966j1j7&sourceid=chrome&ie=UTF-8",
+        "album":"Infinity",
+        "Duration":"3 min 58 sec",
+        "singer":[
+            "James Young",
+        ],
+        "link":"https://www.youtube.com/watch?v=mo6sujHsXPk"
+    },
+
     {
        "id":23,
        "name":"rang de basanti",
@@ -327,6 +340,7 @@
        ],
        "link":"https://youtu.be/BddP6PYo2gs"
     },
+
 
     {
        "id":24,
