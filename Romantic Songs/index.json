@@ -311,5 +311,17 @@
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
 },
+    
+        {
+       "id":25,
+       "name":"Shaayraana",
+       "lyrics":"https://www.lyricsmint.com/holiday/shaayraana",
+       "album":"Holiday",
+       "Duration":"4 min 36 sec",
+       "singer":[
+          "Arjit Singh"
+       ],
+       "link":"https://www.youtube.com/watch?v=6HUYAfCB728"
+},
 
 ]   
