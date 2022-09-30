@@ -156,7 +156,29 @@
        ],
        "link":"https://www.youtube.com/watch?v=GPvBmcoriNo"
 
-    }
+    },
+    {
+       "id":12,
+       "name":"Ishq mohabbat",
+       "lyrics":"https://www.azlyrics.com/lyrics/bollywood/shayad.html",
+       "album":"divide",
+       "Duration":"2 min 40 sec",
+       "singer":[
+          "Ashwani Machal"
+       ],
+       "link":"https://www.youtube.com/watch?v=UHy6P8EHIL4"
+    },
+     {
+       "id":12,
+       "name":"nazm nazm",
+       "lyrics":"https://www.lyricsmint.com/bareilly-ki-barfi/nazm-nazm",
+       "album":"bareilly ki barfi",
+       "Duration":"3 min 14 sec",
+       "singer":[
+          "Ayushmann Khurana"
+       ],
+       "link":"https://www.youtube.com/watch?v=DK_UsATwoxI&ab_channel=ZeeMusicCompany"
+    },
 {
        "id":14,
        "name":"Barrish Ban Jana",
@@ -240,18 +262,6 @@
        "link":"https://www.youtube.com/watch?v=ThPinA3THas"
     },
 
-{
-       "id":101,
-       "name":"Shinunoga E-Wa",
-       "lyrics":"https://www.lyrical-nonsense.com/global/lyrics/fujii-kaze/shinu-no-ga-ii-wa/",
-       "album":"HELP EVER HURT NEVER",
-       "Duration":"3 min 09 sec",
-       "singer":[
-          "Fuji Kaze"
-       ],
-       "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-},
-
 
 {
        "id":21,
@@ -264,7 +274,7 @@
            "Shreya Ghoshal"
        ],
        "link":"https://www.youtube.com/watch?v=aDFEb_W2t1Y"
-
+ },
 
     {
         "id": 22,
@@ -278,20 +288,10 @@
         ],
         "link":"https://www.youtube.com/watch?v=DS-raAyMxl4"
     },
+
+
 {
        "id":23,
-       "name":"Kesariya",
-       "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
-       "album":"Brahmastra",
-       "Duration":"2 min 52 sec",
-       "singer":[
-          "Arijit Singh",
-          "Pritam"
-       ],
-       "link":"https://youtu.be/BddP6PYo2gs"
-    },
-{
-       "id":24,
        "name":"Pasoori",
        "lyrics":"https://www.ilyricshub.com/pasoori-ali-sethi-shae-gill/",
        "album":"Coke Studio",
@@ -300,5 +300,19 @@
            "Shae Gill", "Ali Sethi"
        ],
        "link":"https://www.youtube.com/watch?v=5Eqb_-j3FDA"
-    }
+    },
+
+    {
+       "id":25,
+       "name":"Shinunoga E-Wa",
+       "lyrics":"https://www.lyrical-nonsense.com/global/lyrics/fujii-kaze/shinu-no-ga-ii-wa/",
+       "album":"HELP EVER HURT NEVER",
+       "Duration":"3 min 09 sec",
+       "singer":[
+          "Fuji Kaze"
+       ],
+       "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
+},
+
+
 ]   
