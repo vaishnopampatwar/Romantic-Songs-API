@@ -229,6 +229,20 @@
        ],
        "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
     },
+
+{
+       "id":13,
+       "name":"Ik Tu Hai",
+       "lyrics":"tu hai john abraham ",
+       "album":"Romance",
+       "Duration":"3 min 04 sec",
+       "singer":[
+          "Jubin Nautiya",
+          "Shashwat Sachdev"
+       ],
+       "link":"tu hai john abraham "
+    }
+
     {
        "id":17,
        "name":"Pyaar dewana hota hai",
@@ -252,6 +266,7 @@
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
     {
+
 
        "id":19,
        "name":"You",
@@ -300,19 +315,6 @@
         ],
         "link":"https://www.youtube.com/watch?v=DS-raAyMxl4"
     },
-
-{
-        "id": 23,
-        "name": "Infinity",
-        "lyrics":" https://www.google.com/search?q=infinity+lyrics&rlz=1C1YTUH_enIN933IN933&oq=infinity+lyrics&aqs=chrome..69i57j0i512l9.4966j1j7&sourceid=chrome&ie=UTF-8",
-        "album":"Infinity",
-        "Duration":"3 min 58 sec",
-        "singer":[
-            "James Young",
-        ],
-        "link":"https://www.youtube.com/watch?v=mo6sujHsXPk"
-    },
-
     {
        "id":23,
        "name":"rang de basanti",
@@ -325,7 +327,6 @@
        ],
        "link":"https://youtu.be/BddP6PYo2gs"
     },
-
 
     {
        "id":24,
@@ -348,17 +349,19 @@
           "Arjit Singh"
        ],
        "link":"https://www.youtube.com/watch?v=BddP6PYo2gs"
+    },
+ {
+       "id":26,
+       "name":"Jaan BAn Gaye",
+       "lyrics":"https://www.lyricsmint.com/khuda-haafiz/jaan-ban-gaye",
+       "album":"Romance",
+       "Duration":"3 min 43 sec",
+       "singer":[
+          "Mithoon",
+        "Vishal Mishra",
+        "Asees Kaur"
+       ],
+       "link":"https://youtu.be/a6cJAFFQn_I"
     }
-    {
-    "id":25,
-    "name":"Rang Lageya",
-    "lyrics":"https://www.lyricsbull.com/rang-lageya-mohit-chauhan/",
-    "album":"Romance",
-    "Duration":"4 min 22 sec",
-    "singer":[
-    "Mohit Chauhan"
-    ],
-"link":"https://www.youtube.com/watch?v=Qg-jcTYM5DQ"
-}
 
 ]   
