@@ -535,7 +535,21 @@
        ],
        "link":"https://www.youtube.com/watch?v=O9U-KO90tnc&ab_channel=RBLyricsLover"
     },
+
 {
+       "id":17,
+       "name":"Tu Hi Haqeeqat",
+       "lyrics":"https://genius.com/Pritam-tu-hi-haqeeqat-lyrics",
+       "album":"Tum Mile",
+       "Duration":"5 min 37 sec",
+       "singer":[
+          "Javed Ali"
+       ],
+       "link":"https://www.youtube.com/watch?v=x3bJeJDgRJQ"
+    },
+
+    
+]   
 
     "id":151,
        "name":"Mazak",
@@ -546,7 +560,9 @@
           "Anuv Jain",
        ],
        "link":"https://www.youtube.com/watch?v=zx0YGEi32r0"
-},{
+},
+
+{
         "id": 24,
         "name": "Musafir",
         "lyrics":"https://www.azlyrics.com/lyrics/atifaslam/musafir.html",
@@ -776,3 +792,4 @@
        "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
     }
 ] 
+
