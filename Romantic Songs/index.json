@@ -1,48 +1,56 @@
 [
     {
-       "id":100,
-       "name":"I wanna text u",
-       "lyrics":"https://www.azlyrics.com/lyrics/aligatie/itsyou.html",
-       "album":"Chart Hits Summer 2019",
-       "Duration":"3 min 40 sec",
+
+       "id":1,
+       "name":"Sajdaa",
+       "lyrics":"https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
+       "album":"My Name is Khan (2010)",
+       "Duration":"4 min 58 sec",
+
        "singer":[
-          "Ali Gatie"
+          "Rahat Fateh Ali Khan",
+          "Shankar Mahadevan",
+          "Richa Sharma"
        ],
-       "link":"https://www.youtube.com/watch?v=F-cO2CMue4Q"
+       "link":"https://youtu.be/3rPEWcY6Oww"
     },
     {
        "id":2,
-       "name":"Perfect",
-       "lyrics":"https://www.azlyrics.com/lyrics/edsheeran/perfect.html",
-       "album":"Divide",
+       "name":"Mast Magaan",
+       "lyrics":"https://gaana.com/lyrics/mast-magan-1",
+       "album":"2 States",
        "Duration":"4 min 40 sec",
        "singer":[
-          "Ed Sheeran"
+          "Arijit Singh",
+          "Chinmayi Sripada"
        ],
-       "link":"https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+       "link":"https://youtu.be/fXRvluHnjxE"
     },
     {
        "id":3,
-       "name":"Takeaway",
-       "lyrics":"https://www.azlyrics.com/lyrics/chainsmokers/takeaway.html",
-       "album":"World War Joy",
-       "Duration":"3 min 48 sec",
+       "name":"Sajde",
+       "lyrics":"https://gaana.com/lyrics/sajde",
+       "album":"Khatta Meetha",
+       "Duration":"5 min 5 sec",
        "singer":[
-          "Lenon Stella",
-           "Chainsmokers"
+          "Pritam",
+          "K.K",
+          "Sunidhi Chauhan"
        ],
-       "link":"https://www.youtube.com/watch?v=lzkKzZmRZk8"
+       "link":"https://youtu.be/zfABYXP_NSA"
     },
      {
        "id":4,
-       "name":"Dandelions",
-       "lyrics":"https://www.azlyrics.com/lyrics/ruthb/dandelions.html",
-       "album":"Safe Heaven",
-       "Duration":"3 min 52 sec",
+       "name":"Rabba",
+       "lyrics":"https://www.jiosaavn.com/lyrics/rabba-lyrics/HRwnZRVKZ30",
+       "album":"heropanti",
+       "Duration":"2 min 27 sec",
        "singer":[
-          "Ruth B.",
+          "Pritam",
+          "K.K",
+          "samir"
        ],
-       "link":"https://www.youtube.com/watch?v=y7tHZ3WeJAw"
+       "link":"https://youtu.be/o4mHtJLgMLs"
     },
     {
 
@@ -153,19 +161,6 @@
     },
     {
        "id":12,
-       "name":"Allah Waariyan",
-       "lyrics":"https://genius.com/Shafqat-amanat-ali-allah-waariyan-lyrics",
-       "album":"Yaariyan",
-       "Duration":"5 min 15 sec",
-       "singer":[
-          "Shafqat Amanat Ali"
-       ],
-       "link":"https://youtu.be/8JaIvZ40aJ4"
-
-    },
-    
-    {
-       "id":12,
        "name":"Ishq mohabbat",
        "lyrics":"https://www.azlyrics.com/lyrics/bollywood/shayad.html",
        "album":"divide",
@@ -174,6 +169,7 @@
           "Ashwani Machal"
        ],
        "link":"https://www.youtube.com/watch?v=UHy6P8EHIL4"
+
     },
      {
        "id":12,
@@ -223,9 +219,27 @@
        ],
        "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
     },
-
+{
+       "id":19,
+       "name":"Tera Chehra",
+       "lyrics":"https://www.jiosaavn.com/lyrics/tera-chehra-from-tera-chehra-lyrics/IA5bax10cGA",
+       "album":"sanam teri kasam",
+       "Duration":"4 min 25 sec",
+       "singer":[
+          "Arijit Singh",
+          "Himesh Reshammiya"
+       ],
+       "link":"https://www.youtube.com/watch?v=i6fuIGIzaAs&ab_channel=ErosNowMusic"
+    },
 {
        "id":13,
+       "name":"tum hi ho",
+       "lyrics":"https://gaana.com/lyrics/mast-magan-1",
+       "album":"aashiqui 2",
+       "Duration":"4 min 40 sec",
+       "singer":[
+          "Arijit Singh",
+          "palak muchale"],
        "name":"Ik Tu Hai",
        "lyrics":"tu hai john abraham ",
        "album":"Romance",
@@ -235,7 +249,7 @@
           "Shashwat Sachdev"
        ],
        "link":"tu hai john abraham "
-    }
+    },
 
     {
        "id":17,
@@ -259,10 +273,113 @@
        ],
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
-    {
-
-
+{
        "id":14,
+       "name":"LOve Story",
+       "lyrics":"https://www.azlyrics.com/lyrics/taylor-love-story.html",
+       "album":"X",
+       "Duration":"3 min 57 sec",
+       "singer":[
+          "Taylor swift",
+       ],
+       "link":"https://www.youtube.com/watch?v=nSDgHhjBxUbVQ"
+    },
+	{
+		"id": 19,
+		"name": "Tum hi ho",
+		"lyrics": "https://www.ilyricshub.com/tum-hi-ho/",
+		"album": "Aashiqui 2",
+		"Duration": "2 min 52 sec",
+		"singer": ["Arijit Singh", "Pritam"],
+		"link": "https://www.youtube.com/watch?v=0KZqYXQZJzU"
+	},
+
+	{
+		"id": 20,
+		"name": "Dil diyan gallan",
+		"lyrics": "https://www.lyricsmint.com/tiger-zinda-hai/dil-diyan-gallan",
+		"album": "Tiger Zinda Hai",
+		"Duration": "3 min 51 sec",
+		"singer": ["Shreya Ghoshal", " Atif Aslam"],
+		"link": "https://www.youtube.com/watch?v=2CvBq9K9GWM"
+	},
+	{
+		"id": 21,
+		"name": "Pyar hua ikraar hua",
+		"lyrics": "https://www.lyricsmint.com/pyar-hua-ikraar-hua-lyrics",
+		"album": "Kati patang",
+		"Duration": "4 min 51 sec",
+		"singer": ["Kishore Kumar"],
+		"link": "https://www.youtube.com/watch?v=ZQY2mJZ7X7I"
+	},
+	{
+		"id": 22,
+		"name": "Photograph",
+		"lyrics": "https://www.azlyrics.com/lyrics/edsheeran/photograph.html",
+		"album": "X",
+		"Duration": "4 min 19 sec",
+		"singer": ["Ed Sheeran"],
+		"link": "https://www.youtube.com/watch?v=nSDgHBxUbVQ"
+	},
+	{
+		"id": 23,
+		"name": "Ishq wala love",
+		"lyrics": "https://www.lyricsmint.com/ishq-wala-love-lyrics",
+		"album": "Student of the year",
+		"Duration": "2 min 52 sec",
+		"singer": ["Arijit Singh", "Pritam"],
+		"link": "https://www.youtube.com/watch?v=ZQY2mJZ7X7I"
+	},
+{
+    "id":19,
+       "name":"Tune O Rangeele",
+       "lyrics":"https://www.hinditracks.in/tune-o-rangeele-lyrics-kudrat",
+       "album":"Kudrat",
+       "Duration":"3 min 55 sec",
+       "singer":[
+          "Lata Mangeshkar"
+       ],
+       "link":"https://www.youtube.com/watch?v=_9lKgL2ISaY"
+    
+},
+{
+    "id":20,
+       "name":"Khairiyat",
+       "lyrics":"https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
+       "album":"Chhichhore",
+       "Duration":"4 min 58 sec",
+       "singer":[
+          "Arijit Singh"
+       ],
+       "link":"https://www.youtube.com/watch?v=9-AKLAfpjrI"
+    
+},
+{
+    "id":21,
+       "name":"Kaun Tujhe",
+       "lyrics":"https://www.lyricsmint.com/ms-dhoni/kaun-tujhe",
+       "album":"M.S.Dhoni",
+       "Duration":"4 min 00 sec",
+       "singer":[
+          "Amaal Mallik Palak"
+       ],
+       "link":"https://www.youtube.com/watch?v=Ov0YGGSY6gY"
+    
+},
+    {
+       "id":19,
+       "name":"love",
+       "lyrics":"https://www.azlyrics.com/lyrics/edsheeran/photograph.html",
+       "album":"G",
+       "Duration":"5 min 19 sec",
+       "singer":[
+          "suraj mali",
+       ],
+       "link":"https://youtu.be/fXRvluHnjxE"
+    },
+{  
+
+       "id":20,
        "name":"You",
        "lyrics":"https://www.lyricsgoal.com/you-armaan-malik/",
        "album":"",
@@ -271,20 +388,8 @@
           "Armaan Malik"
        ],
        "link":"https://www.youtube.com/watch?v=GsdYjCLcpN4"
-    },
+    }, 
     {
-       "id":46,
-       "name":"Bande",
-       "lyrics":"https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
-       "album":"Vikaram Vedha",
-       "Duration":"4 min 58 sec",
-       "singer":[
-          "Shankar Mahadevan",
-          "Richa Sharma"
-       ],
-       "link":"https://youtu.be/3rPEWcY6Oww"
-    },
-{
        "id":20,
        "name":"O meri laila",
        "lyrics":"https://www.hinditracks.in/o-meri-laila-lyrics",
@@ -294,8 +399,18 @@
           "Atif Aslam"
        ],
        "link":"https://www.youtube.com/watch?v=ThPinA3THas"
-   },
-
+    },
+{
+       "id":22,
+       "name":"Shinunoga E-Wa",
+       "lyrics":"https://www.lyrical-nonsense.com/global/lyrics/fujii-kaze/shinu-no-ga-ii-wa/",
+       "album":"HELP EVER HURT NEVER",
+       "Duration":"3 min 09 sec",
+       "singer":[
+          "Fuji Kaze"
+       ],
+       "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
+},
     {
        "id":21,
        "name":"Pal",
@@ -307,9 +422,32 @@
            "Shreya Ghoshal"
        ],
        "link":"https://www.youtube.com/watch?v=aDFEb_W2t1Y"
+},
+{ 
+    "id":47,'
+    "name":"So far away",
+    "lyrics":"https://www.azlyrics.com/lyrics/martingarrix/sofaraway.html",
+    "album":"X",
+    "Duration":"3 min 4 sec",
+    "singer":[
+    "Jamie Scott",
+    "Ramy Dya"
+    ],
+    "link":"https://youtu.be/o7iL2KzDh38"
+  },
+{
+       "id":101,
+       "name":"Phir na aisi raat ayegi",
+       "lyrics":"https://www.hinditracks.in/phir-na-aisi-raat-lyrics",
+       "album":"lsc",
+       "Duration":"2 min 28 sec",
+       "singer":[
+          "Arigit"
+       ],
+       "link":"https://www.youtube.com/watch?v=ThPinA3THas"
     },
     {
-        "id": 21,
+        "id": 24,
         "name": "Sanam Re",
         "lyrics":"https://www.azlyrics.com/lyrics/arijitsingh/sanamretitlesong.html",
         "album":"Sanam Re",
@@ -356,6 +494,29 @@
        "link":"https://www.youtube.com/watch?v=O9U-KO90tnc&ab_channel=RBLyricsLover"
     },
 {
+
+    "id":151,
+       "name":"Mazak",
+       "lyrics":"https://themusicalsafari.com/mazaak-lyrics-anuv-jain/",
+       "album":"Mazak",
+       "Duration":"3 min 53 sec",
+       "singer":[
+          "Anuv Jain",
+       ],
+       "link":"https://www.youtube.com/watch?v=zx0YGEi32r0"
+},{
+        "id": 24,
+        "name": "Musafir",
+        "lyrics":"https://www.azlyrics.com/lyrics/atifaslam/musafir.html",
+        "album":"Sweetiee weds NRI",
+        "Duration":"3 min",
+        "singer":[
+            "Atif Aslam",
+            "Palak Muchhal"
+        ],
+        "link":"https://youtu.be/fRD_3vJagxk"
+    },
+    {
        "id":33,
        "name":"Sun raha hai na",
        "lyrics":"https://www.lyricsoff.com/songs/sun-raha-hai-na-tu-aashiqui-2.html",
@@ -376,17 +537,7 @@
           "Fuji Kaze"
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-},
-   {
-       "id":25,
-       "name":"nit khair mangda",
-       "lyrics":"https://www.pagalworld.pw/02-nit-khair-manga-raid-320kbps-mp3/download.html",
-       "album":"Nit khair Mangda",
-       "Duration":"3 min 48 sec",
-       "singer":[
-          "Rahat Fateh Ali Khan , Tanishk Bagchi"
-       ],
-       "link":"https://www.pagalworld.pw/02-nit-khair-manga-raid-320kbps-mp3/download.html"
+
 },
 {
        "id":30,
@@ -399,6 +550,7 @@
        ],
        "link":"https://www.youtube.com/watch?v=6QoBpFUX6CE"
    },
+
     {
        "id":25,
        "name":"Dil ne yeh kaha hain dil se",
@@ -411,7 +563,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=MFommhp4XVk&ab_channel=IshtarMusic"
 },
-    
         {
        "id":25,
        "name":"Shaayraana",
@@ -423,6 +574,18 @@
        ],
        "link":"https://www.youtube.com/watch?v=6HUYAfCB728"
 },
+ {
+       "id":25,
+       "name":"shape of you",
+       "lyrics":"https://genius.com/11127616/",
+       "album":"The club isn't best place for lover",
+       "Duration":"4 min 23 sec",
+       "singer":[
+          "Ed Sheeran"
+       ],
+       "link":"https://www.youtube.com/watch?v=JGwWNGJdvx8&ab_channel=EdSheeran"
+},
+
     {
        "id":26,
        "name":"Kesariya",
@@ -432,7 +595,7 @@
        "singer":[
           "Arjit Singh"
        ],
-       "link":"https://www.youtube.com/watch?v=BddP6PYo2gs"
+       "link":"https://youtu.be/BddP6PYo2gs"
     },
 {
        "id":26,
@@ -481,6 +644,27 @@
     ],
 "link":"https://youtu.be/S0WPSYFm7iE"
 },
+    {
+    "id":27,
+    "name":"Aashiq Banaya Aapne Title ",
+    "lyrics":"https://www.lyricsoff.com/songs/aashiq-banaya-aapne.html",
+    "album":"Romance",
+    "Duration":"4 min 59 sec",
+    "singer":[
+    "Himesh Reshammiya","Shreya Ghoshal"
+    ],
+"link":"https://youtu.be/0bAVd9jJE2Q"
+},
+{
+    "name":"Khaab",
+    "lyrics":"https://genius.com/Akhil-khaab-song-lyrics-lyrics",
+    "album":"Romance",
+    "Duration":"3 min 40 sec",
+    "singer":[
+    "Akhil"
+    ],
+"link":"https://www.youtube.com/watch?v=2eliQ_KR8yA"
+},
  {
     "id":27,
     "name":"bol do na zara",
@@ -506,24 +690,47 @@
     },
 {
     "id":27,
-    "name":"Janib",
-    "lyrics":"https://www.lyricsmint.com/dilliwaali-zaalim-girlfriend/janib",
+    "name":"Main Yahaan Hoon",
+    "lyrics":"https://gaana.com/lyrics/main-yahaan-hoon",
     "album":"Romance",
-    "Duration":" min 52 sec",
+    "Duration":"4 min 57 sec",
     "singer":[
-    "Arihit Singh"
+    "Udit Narayan"
     ],
-"link":"https://www.youtube.com/watch?v=YbJXFwAkz2c"
+"link":"https://www.youtube.com/watch?v=m6Y8xEfyXTs"
 },
-{
-    "id":26,
-    "name":"Tip Tip Barsa Pani",
-    "lyrics":"https://www.hinditracks.in/tip-tip-barsa-pani-hindi-lyrics-mohra",
-    "album":"Mohra",
-    "Duration":"6 min 04 sec",
-    "singer":[
-        "Alka Yagnik", "Udit Narayan"
-    ], 
-    "link":"https://www.youtube.com/watch?v=BtlnpBb4O8E"
-}
-]   
+    {
+        "id":27,
+        "name":"Janib",
+        "lyrics":"https://www.lyricsmint.com/dilliwaali-zaalim-girlfriend/janib",
+        "album":"Romance",
+        "Duration":" min 52 sec",
+        "singer":[
+        "Arihit Singh"
+        ],
+    "link":"https://www.youtube.com/watch?v=YbJXFwAkz2c"
+    },
+    {
+        "id":28,
+        "name":"Pehla Nasha",
+        "lyrics":"https://genius.com/Udit-narayan-pehla-nasha-lyrics",
+        "album":"Romance",
+        "Duration":"4 min 58 sec",
+        "singer":[
+        "Udit Narayan", 
+         "Sadhana Sargam"
+        ],
+    "link":"https://youtu.be/sP2w3vaTD8Q"
+    },
+ {
+       "id":29,
+       "name":"Night Changes",
+       "lyrics":"https://genius.com/One-direction-night-changes-lyrics",
+       "album":"four",
+       "Duration":"4 min 1 sec",
+       "singer":[
+          "One Direction"
+       ],
+       "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
+    },
+] 
