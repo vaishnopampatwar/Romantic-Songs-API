@@ -229,20 +229,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
     },
-
-{
-       "id":13,
-       "name":"Ik Tu Hai",
-       "lyrics":"tu hai john abraham ",
-       "album":"Romance",
-       "Duration":"3 min 04 sec",
-       "singer":[
-          "Jubin Nautiya",
-          "Shashwat Sachdev"
-       ],
-       "link":"tu hai john abraham "
-    }
-
     {
        "id":17,
        "name":"Pyaar dewana hota hai",
@@ -266,7 +252,6 @@
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
     {
-
 
        "id":19,
        "name":"You",
@@ -364,4 +349,16 @@
        ],
        "link":"https://www.youtube.com/watch?v=BddP6PYo2gs"
     }
+    {
+    "id":25,
+    "name":"Rang Lageya",
+    "lyrics":"https://www.lyricsbull.com/rang-lageya-mohit-chauhan/",
+    "album":"Romance",
+    "Duration":"4 min 22 sec",
+    "singer":[
+    "Mohit Chauhan"
+    ],
+"link":"https://www.youtube.com/watch?v=Qg-jcTYM5DQ"
+}
+
 ]   
