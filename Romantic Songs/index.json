@@ -348,6 +348,18 @@
 },
     {
        "id":19,
+       "name":"love",
+       "lyrics":"https://www.azlyrics.com/lyrics/edsheeran/photograph.html",
+       "album":"G",
+       "Duration":"5 min 19 sec",
+       "singer":[
+          "suraj mali",
+       ],
+       "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
+    },
+  
+
+       "id":20,
        "name":"You",
        "lyrics":"https://www.lyricsgoal.com/you-armaan-malik/",
        "album":"",
@@ -369,7 +381,7 @@
        "link":"https://www.youtube.com/watch?v=ThPinA3THas"
     },
 {
-       "id":101,
+       "id":22,
        "name":"Shinunoga E-Wa",
        "lyrics":"https://www.lyrical-nonsense.com/global/lyrics/fujii-kaze/shinu-no-ga-ii-wa/",
        "album":"HELP EVER HURT NEVER",
@@ -390,7 +402,7 @@
            "Shreya Ghoshal"
        ],
        "link":"https://www.youtube.com/watch?v=aDFEb_W2t1Y"
-    },
+},
 { 
     "id":47,'
     "name":"So far away",
@@ -415,7 +427,7 @@
        "link":"https://www.youtube.com/watch?v=ThPinA3THas"
     },
     {
-        "id": 22,
+        "id": 24,
         "name": "Sanam Re",
         "lyrics":"https://www.azlyrics.com/lyrics/arijitsingh/sanamretitlesong.html",
         "album":"Sanam Re",
@@ -553,7 +565,7 @@
           "Ed Sheeran"
        ],
        "link":"https://www.youtube.com/watch?v=JGwWNGJdvx8&ab_channel=EdSheeran"
-}
+},
 
     {
        "id":26,
@@ -564,7 +576,7 @@
        "singer":[
           "Arjit Singh"
        ],
-       "link":"https://www.youtube.com/watch?v=BddP6PYo2gs"
+       "link":"https://youtu.be/BddP6PYo2gs"
     },
 {
        "id":26,
