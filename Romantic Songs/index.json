@@ -262,6 +262,30 @@
           "Fuji Kaze"
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
+},
+    {
+        "id": 21,
+        "name": "Sanam Re",
+        "lyrics":"https://www.azlyrics.com/lyrics/arijitsingh/sanamretitlesong.html",
+        "album":"Sanam Re",
+        "Duration":"4 min 30 sec",
+        "singer":[
+            "Mithoon",
+            "Arijit Singh"
+        ],
+        "link":"https://www.youtube.com/watch?v=DS-raAyMxl4"
+    },
+{
+       "id":150,
+       "name":"Kesariya",
+       "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
+       "album":"Brahmastra",
+       "Duration":"2 min 52 sec",
+       "singer":[
+          "Arijit Singh",
+          "Pritam"
+       ],
+       "link":"https://youtu.be/BddP6PYo2gs"
     }
 
 
