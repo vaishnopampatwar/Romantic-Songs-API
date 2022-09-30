@@ -220,6 +220,18 @@
     },
 {
        "id":13,
+       "name":"Ishq Bulaava",
+       "lyrics":"https://www.lyricsmint.com/hasee-toh-phasee/ishq-bulaava",
+       "album":"Hasee Toh Phasee",
+       "Duration":"5 min 03 sec",
+       "singer":[
+          "Sanam Puri",
+          "Shipra Goyal"
+       ],
+       "link":"https://www.youtube.com/watch?v=c2gSzYLJ8sY"
+},
+{
+       "id":13,
        "name":"Dil Deewana, Maine Pyar Kiya",
        "lyrics":"Asad Bhopali",
        "album":"Monsoon Romance",
@@ -353,7 +365,6 @@
           "Arijit Singh"
        ],
        "link":"https://www.youtube.com/watch?v=9-AKLAfpjrI"
-    
 },
 {
     "id":21,
@@ -733,5 +744,5 @@
           "One Direction"
        ],
        "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
-    },
+    }
 ] 
