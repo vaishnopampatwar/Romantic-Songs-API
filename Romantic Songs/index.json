@@ -156,7 +156,7 @@
        ],
        "link":"https://www.youtube.com/watch?v=GPvBmcoriNo"
 
-    }
+    },
 {
        "id":11,
        "name":"Barrish Ban Jana",
@@ -169,6 +169,17 @@
        ],
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
     },
+    {
+       "id":17,
+       "name":"Mask Off",
+       "lyrics":"https://www.lyrics.com/lyric/33748508/Mask+Off",
+       "album":"Future",
+       "Duration":"3 min 23 sec",
+       "singer":[
+          "Future"
+       ],
+       "youtube.com/watch?v=xvZqHgFz51I"
+    }
 
     
 ]   
