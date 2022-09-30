@@ -215,7 +215,7 @@
           "Ed Sheeran",
        ],
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
-    }
+    },
 {
     "id":19,
        "name":"Tune O Rangeele",
@@ -227,5 +227,17 @@
        ],
        "link":"https://www.youtube.com/watch?v=_9lKgL2ISaY"
     
-}
+},
+{
+    "id":20,
+       "name":"Khairiyat",
+       "lyrics":"https://www.ilyricshub.com/khairiyat-chhichhore-arijit-singh/",
+       "album":"Chhichhore",
+       "Duration":"4 min 58 sec",
+       "singer":[
+          "Arijit Singh",
+       ],
+       "link":"https://www.youtube.com/watch?v=9-AKLAfpjrI"
+    
+},
 ]   
