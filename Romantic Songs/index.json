@@ -156,7 +156,7 @@
        ],
        "link":"https://www.youtube.com/watch?v=GPvBmcoriNo"
 
-    }
+    },
 {
        "id":11,
        "name":"Barrish Ban Jana",
@@ -168,6 +168,17 @@
           "Payal Dev"
        ],
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
+    },
+    {
+       "id":17,
+       "name":"Photograph",
+       "lyrics":"https://www.azlyrics.com/lyrics/edsheeran/photograph.html",
+       "album":"multiplication",
+       "Duration":"4 min 19 sec",
+       "singer":[
+          "Ed Sheeran"
+       ],
+       "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
 
     
