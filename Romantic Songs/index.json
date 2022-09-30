@@ -252,30 +252,17 @@
        ],
        "link":"https://www.youtube.com/watch?v=ThPinA3THas"
     },
-    {
-        "id": 21,
-        "name": "Sanam Re",
-        "lyrics":"https://www.azlyrics.com/lyrics/arijitsingh/sanamretitlesong.html",
-        "album":"Sanam Re",
-        "Duration":"4 min 30 sec",
-        "singer":[
-            "Mithoon",
-            "Arijit Singh"
-        ],
-        "link":"https://www.youtube.com/watch?v=DS-raAyMxl4"
-    }
 {
-       "id":150,
-       "name":"Kesariya",
-       "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
-       "album":"Brahmastra",
-       "Duration":"2 min 52 sec",
+       "id":101,
+       "name":"janu meri jaan",
+       "lyrics":"https://hindilyricsapp.com/song-lyrics/movie/shaan/janu-meri-jaan-lyrics/",
+       "album":"Shaan",
+       "Duration":"5 min 18 sec",
        "singer":[
-          "Arijit Singh",
-          "Pritam"
+          " Usha Mangeshkar", "Asha Bhosle", "Kishore Kumar", "Mohammed Rafi"
        ],
-       "link":"https://youtu.be/BddP6PYo2gs"
-    },
+       "link":"https://www.youtube.com/watch?v=q_MxDz18l4I"
+    }
 
 
 
