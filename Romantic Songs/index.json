@@ -161,8 +161,18 @@
           "Shafqat Amanat Ali"
        ],
        "link":"https://youtu.be/8JaIvZ40aJ4"
-
     },
+    {
+   "id": 12,
+   "name": "Raatan Lambiyan",
+   "lyrics": "https://www.hinditracks.in/raataan-lambiyan-lyrics",
+   "album": "Shershaah",
+   "Duration": "2 min 31 sec",
+   "singer": [
+       "Jubin Nautiyal, Asees Kaur"
+   ],
+   "link": "https://youtu.be/gvyUuxdRdR4"
+ },
     {
        "id":12,
        "name":"Allah Waariyan",
@@ -256,7 +266,6 @@
        "Duration":"2 min 02 sec",
        "singer":[
           "Aditya A"
-        
        ],
        "link":"https://www.youtube.com/watch?v=7c3-Gei5j4w"
     },
@@ -418,9 +427,7 @@
        ],
        "link":"https://www.youtube.com/watch?v=Ov0YGGSY6gY"
 },
-    {
-
-
+{
        "id":19,
        "name":"love",
        "lyrics":"https://www.azlyrics.com/lyrics/edsheeran/photograph.html",
