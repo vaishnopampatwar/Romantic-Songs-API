@@ -159,6 +159,19 @@
     },
     {
        "id":12,
+       "name":"Allah Waariyan",
+       "lyrics":"https://genius.com/Shafqat-amanat-ali-allah-waariyan-lyrics",
+       "album":"Yaariyan",
+       "Duration":"5 min 15 sec",
+       "singer":[
+          "Shafqat Amanat Ali"
+       ],
+       "link":"https://youtu.be/8JaIvZ40aJ4"
+
+    },
+    
+    {
+       "id":12,
        "name":"Ishq mohabbat",
        "lyrics":"https://www.azlyrics.com/lyrics/bollywood/shayad.html",
        "album":"divide",
@@ -167,7 +180,6 @@
           "Ashwani Machal"
        ],
        "link":"https://www.youtube.com/watch?v=UHy6P8EHIL4"
-
     },
      {
        "id":12,
@@ -229,7 +241,7 @@
           "Shashwat Sachdev"
        ],
        "link":"tu hai john abraham "
-    },
+    }
 
     {
        "id":17,
@@ -278,18 +290,6 @@
        "link":"https://www.youtube.com/watch?v=ThPinA3THas"
     },
 
-{
-       "id":101,
-       "name":"Shinunoga E-Wa",
-       "lyrics":"https://www.lyrical-nonsense.com/global/lyrics/fujii-kaze/shinu-no-ga-ii-wa/",
-       "album":"HELP EVER HURT NEVER",
-       "Duration":"3 min 09 sec",
-       "singer":[
-          "Fuji Kaze"
-       ],
-       "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-},
-
 
     {
        "id":21,
@@ -328,29 +328,6 @@
        "link":"https://youtu.be/BddP6PYo2gs"
     },
 {
-
-    "id":151,
-       "name":"Mazak",
-       "lyrics":"https://themusicalsafari.com/mazaak-lyrics-anuv-jain/",
-       "album":"Mazak",
-       "Duration":"3 min 53 sec",
-       "singer":[
-          "Anuv Jain",
-       ],
-       "link":"https://www.youtube.com/watch?v=zx0YGEi32r0"
-},{
-        "id": 24,
-        "name": "Musafir",
-        "lyrics":"https://www.azlyrics.com/lyrics/atifaslam/musafir.html",
-        "album":"Sweetiee weds NRI",
-        "Duration":"3 min",
-        "singer":[
-            "Atif Aslam",
-            "Palak Muchhal"
-        ],
-        "link":"https://youtu.be/fRD_3vJagxk"
-    },
-    {
        "id":33,
        "name":"Sun raha hai na",
        "lyrics":"https://www.lyricsoff.com/songs/sun-raha-hai-na-tu-aashiqui-2.html",
@@ -373,7 +350,6 @@
           "Fuji Kaze"
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-
 },
 {
        "id":30,
@@ -389,19 +365,6 @@
 
     {
        "id":25,
-       "name":"Dil ne yeh kaha hain dil se",
-       "lyrics":"https://gaana.com/lyrics/dil-ne-yeh-kaha-hain-dil-se",
-       "album":"Dhadkan",
-       "Duration":"7 min 33 sec",
-       "singer":[
-          "Alka Yagnik",
-          "Udit Narayan"
-       ],
-       "link":"https://www.youtube.com/watch?v=MFommhp4XVk&ab_channel=IshtarMusic"
-},
-
-    {
-       "id":26,
        "name":"Kesariya",
        "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
        "album":"Romance",
@@ -445,7 +408,17 @@
     "Kishor kumar"
     ],
 "link":"https://youtu.be/S0WPSYFm7iE"
+},
+{
+    "id":27,
+    "name":"Janib",
+    "lyrics":"https://www.lyricsmint.com/dilliwaali-zaalim-girlfriend/janib",
+    "album":"Romance",
+    "Duration":" min 52 sec",
+    "singer":[
+    "Arihit Singh"
+    ],
+"link":"https://www.youtube.com/watch?v=YbJXFwAkz2c"
 }
-
 
 ]   
