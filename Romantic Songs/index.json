@@ -324,5 +324,18 @@
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
 }
+    ,
+    {
+       "id":25,
+       "name":"Dil ne yeh kaha hain dil se",
+       "lyrics":"https://gaana.com/lyrics/dil-ne-yeh-kaha-hain-dil-se",
+       "album":"Dhadkan",
+       "Duration":"7 min 33 sec",
+       "singer":[
+          "Alka Yagnik",
+          "Udit Narayan"
+       ],
+       "link":"https://www.youtube.com/watch?v=MFommhp4XVk&ab_channel=IshtarMusic"
+}
 
 ]   
