@@ -159,6 +159,19 @@
     },
     {
        "id":12,
+       "name":"Allah Waariyan",
+       "lyrics":"https://genius.com/Shafqat-amanat-ali-allah-waariyan-lyrics",
+       "album":"Yaariyan",
+       "Duration":"5 min 15 sec",
+       "singer":[
+          "Shafqat Amanat Ali"
+       ],
+       "link":"https://youtu.be/8JaIvZ40aJ4"
+
+    },
+    
+    {
+       "id":12,
        "name":"Ishq mohabbat",
        "lyrics":"https://www.azlyrics.com/lyrics/bollywood/shayad.html",
        "album":"divide",
@@ -167,7 +180,6 @@
           "Ashwani Machal"
        ],
        "link":"https://www.youtube.com/watch?v=UHy6P8EHIL4"
-
     },
      {
        "id":12,
@@ -229,7 +241,7 @@
           "Shashwat Sachdev"
        ],
        "link":"tu hai john abraham "
-    },
+    }
 
     {
        "id":17,
@@ -254,6 +266,8 @@
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
     {
+
+
        "id":19,
        "name":"You",
        "lyrics":"https://www.lyricsgoal.com/you-armaan-malik/",
@@ -275,17 +289,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=ThPinA3THas"
     },
-{
-       "id":101,
-       "name":"Shinunoga E-Wa",
-       "lyrics":"https://www.lyrical-nonsense.com/global/lyrics/fujii-kaze/shinu-no-ga-ii-wa/",
-       "album":"HELP EVER HURT NEVER",
-       "Duration":"3 min 09 sec",
-       "singer":[
-          "Fuji Kaze"
-       ],
-       "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-},
 
 
     {
@@ -300,18 +303,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=aDFEb_W2t1Y"
     },
-{ 
-    "id":47,'
-    "name":"So far away",
-    "lyrics":"https://www.azlyrics.com/lyrics/martingarrix/sofaraway.html",
-    "album":"X",
-    "Duration":"3 min 4 sec",
-    "singer":[
-    "Jamie Scott",
-    "Ramy Dya"
-    ],
-    "link":"https://youtu.be/o7iL2KzDh38"
-  },
 {
        "id":101,
        "name":"Phir na aisi raat ayegi",
@@ -371,29 +362,6 @@
        "link":"https://www.youtube.com/watch?v=O9U-KO90tnc&ab_channel=RBLyricsLover"
     },
 {
-
-    "id":151,
-       "name":"Mazak",
-       "lyrics":"https://themusicalsafari.com/mazaak-lyrics-anuv-jain/",
-       "album":"Mazak",
-       "Duration":"3 min 53 sec",
-       "singer":[
-          "Anuv Jain",
-       ],
-       "link":"https://www.youtube.com/watch?v=zx0YGEi32r0"
-},{
-        "id": 24,
-        "name": "Musafir",
-        "lyrics":"https://www.azlyrics.com/lyrics/atifaslam/musafir.html",
-        "album":"Sweetiee weds NRI",
-        "Duration":"3 min",
-        "singer":[
-            "Atif Aslam",
-            "Palak Muchhal"
-        ],
-        "link":"https://youtu.be/fRD_3vJagxk"
-    },
-    {
        "id":33,
        "name":"Sun raha hai na",
        "lyrics":"https://www.lyricsoff.com/songs/sun-raha-hai-na-tu-aashiqui-2.html",
@@ -414,7 +382,6 @@
           "Fuji Kaze"
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-
 },
 {
        "id":30,
@@ -452,17 +419,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=6HUYAfCB728"
 },
- {
-       "id":25,
-       "name":"shape of you",
-       "lyrics":"https://genius.com/11127616/",
-       "album":"The club isn't best place for lover",
-       "Duration":"4 min 23 sec",
-       "singer":[
-          "Ed Sheeran"
-       ],
-       "link":"https://www.youtube.com/watch?v=JGwWNGJdvx8&ab_channel=EdSheeran"
-}
 
     {
        "id":26,
@@ -522,27 +478,6 @@
     ],
 "link":"https://youtu.be/S0WPSYFm7iE"
 },
-    {
-    "id":27,
-    "name":"Aashiq Banaya Aapne Title ",
-    "lyrics":"https://www.lyricsoff.com/songs/aashiq-banaya-aapne.html",
-    "album":"Romance",
-    "Duration":"4 min 59 sec",
-    "singer":[
-    "Himesh Reshammiya","Shreya Ghoshal"
-    ],
-"link":"https://youtu.be/0bAVd9jJE2Q"
-},
-{
-    "name":"Khaab",
-    "lyrics":"https://genius.com/Akhil-khaab-song-lyrics-lyrics",
-    "album":"Romance",
-    "Duration":"3 min 40 sec",
-    "singer":[
-    "Akhil"
-    ],
-"link":"https://www.youtube.com/watch?v=2eliQ_KR8yA"
-},
  {
     "id":27,
     "name":"bol do na zara",
@@ -566,17 +501,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=xOsZj48vXGA&ab_channel=SonyMusicIndia"
     },
-{
-    "id":27,
-    "name":"Main Yahaan Hoon",
-    "lyrics":"https://gaana.com/lyrics/main-yahaan-hoon",
-    "album":"Romance",
-    "Duration":"4 min 57 sec",
-    "singer":[
-    "Udit Narayan"
-    ],
-"link":"https://www.youtube.com/watch?v=m6Y8xEfyXTs"
-},
     {
         "id":27,
         "name":"Janib",
@@ -600,15 +524,15 @@
         ],
     "link":"https://youtu.be/sP2w3vaTD8Q"
     },
- {
+    {
        "id":29,
-       "name":"Night Changes",
-       "lyrics":"https://genius.com/One-direction-night-changes-lyrics",
-       "album":"four",
-       "Duration":"4 min 1 sec",
+       "name":"Umbrealla",
+       "lyrics":"https://genius.com/Ember-island-umbrella-lyrics",
+       "album":"Umbrealla",
+       "Duration":"3 min 57 sec",
        "singer":[
-          "One Direction"
+          "Ember Island"
        ],
-       "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
+       "link":"https://www.youtube.com/watch?v=jUhMKjfc5yc"
     },
-] 
+]   
