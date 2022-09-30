@@ -240,4 +240,17 @@
        "link":"https://www.youtube.com/watch?v=9-AKLAfpjrI"
     
 },
+{
+    "id":21,
+       "name":"Kaun Tujhe",
+       "lyrics":"https://www.lyricsmint.com/ms-dhoni/kaun-tujhe",
+       "album":"M.S.Dhoni",
+       "Duration":"4 min 00 sec",
+       "singer":[
+          "Amaal Mallik Palak"
+       ],
+       "link":"https://www.youtube.com/watch?v=Ov0YGGSY6gY"
+    
+},
+
 ]   
