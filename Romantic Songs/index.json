@@ -157,7 +157,6 @@
           "Alan Walker"
        ],
        "link":"https://www.youtube.com/watch?v=GPvBmcoriNo"
-
     },
     {
        "id":12,
@@ -525,6 +524,42 @@
        ],
        "link":"https://www.youtube.com/watch?v=O9U-KO90tnc&ab_channel=RBLyricsLover"
     },
+    {
+       "id":12,
+       "name":"The best part",
+       "lyrics":"https://www.google.com/search?q=the+best+part&rlz=1C1RLNS_enIN1017IN1017&oq=the+best+part&aqs=chrome.0.0i355i512j46i512j0i512j46i512l3j0i512l4.4486j0j15&sourceid=chrome&ie=UTF-8",
+       "album":" Freudian",
+       "Duration":"2 min 12 sec",
+       "singer":[
+          "olivia rodrigo"
+       ],
+       "link":"https://www.youtube.com/watch?v=i2KQ89HALdo"
+    },
+    {
+       "id":12,
+       "name":"Jananu Meri Jaan",
+       "lyrics":"https://www.google.com/search?gs_ssp=eJzj4tFP1zcsNjAtMcxLMjZg9OLLSswrVchNLcpUyEpMzAMAhvYJSw&q=janu+meri+jaan&rlz=1C1RXQR_enIN965IN965&oq=jannu+meri+&aqs=chrome.1.69i57j46i10i433j0i10j46i10j0i10l5.5299j0j7&sourceid=chrome&ie=UTF-8#wptab=si:AC1wQDCnZtfNUI2fl7K6t9yeOkKftycXbaAPkjjFcOiXQzcxEpVqSoS5a3NClkEeImCVa-6LqvaxEORwPvUPsmvCPSJI80C7Exnlv0lff1J7fPIYOnNcQxGYLFzeaJTA0IIjO_aGoFR0VP3-xxXoJZuyp8WNb6qDCyNKVRpOl1J8uK-qJ-9xP6A%3D",
+       "album":"Romance",
+       "Duration":"5 min 18 sec",
+       "singer":[
+          "Kishor kumar",
+          "Mohammed Rafi",
+          "Asha Bhosle",
+          "Usha Mangeshkar"
+       ],
+       "https://www.youtube.com/watch?v=KeDi_7twe5w"
+    },
+{
+       "id":17,
+       "name":"Tu Hi Haqeeqat",
+       "lyrics":"https://genius.com/Pritam-tu-hi-haqeeqat-lyrics",
+       "album":"Tum Mile",
+       "Duration":"5 min 37 sec",
+       "singer":[
+          "Javed Ali"
+       ],
+       "link":"https://www.youtube.com/watch?v=x3bJeJDgRJQ"
+    },
 {
 
     "id":151,
@@ -569,8 +604,18 @@
           "Fuji Kaze"
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-
 },
+    {
+        "id":14,
+        "name":"lag ja gale",
+        "lyrics":"https://gaana.com/lyrics/lag-ja-gale-8",
+        "album":"Woh kaun thi",
+        "Duration":"4 min 18 sec",
+        "singer":[
+           "Lata Mangeshkar"
+        ],
+        "link":"https://www.youtube.com/watch?v=TFr6G5zveS8"
+    },
 {
        "id":30,
        "name":"Teri hogaiyaan",
@@ -715,7 +760,6 @@
        "album":"YEllow Diary",
        "Duration":"3 min 02 sec",
        "singer":[
-          
            "Shilpa Rao"
        ],
        "link":"https://www.youtube.com/watch?v=xOsZj48vXGA&ab_channel=SonyMusicIndia"
@@ -772,9 +816,30 @@
        "album":"Raajneeti",
        "Duration":"4 min 17 sec",
        "singer":[
-          " Antara Mitra, Mohit Chauhan, and Pritam Chakraborty
-"
+          "Antara Mitra", "Mohit Chauhan", "Pritam Chakraborty"
        ],
        "link":"https://www.youtube.com/watch?v=yHWPO9DDnsk"
+    },
+ {
+       "id":31,
+       "name":"Aayat",
+       "lyrics":"https://www.lyricsmint.com/bajirao-mastani/aayat",
+       "album":"Bajirao Mastani",
+       "Duration":"4 min 32 sec",
+       "singer":[
+          "Arijit Singh"
+       ],
+       "link":"https://www.youtube.com/watch?v=vKDsAB1ccn0"
+    },
+{
+       "id":31,
+       "name":"nit khair mangda",
+       "lyrics":"https://pagalsong.in/nit-khair-manga-mp3-song.html",
+       "album":"https://pagalsong.in/nit-khair-manga-mp3-song.htmlhttps://pagalsong.in/nit-khair-manga-mp3-song.html",
+       "Duration":"4 min 1 sec",
+       "singer":[
+          "One Directionhttps://pagalsong.in/nit-khair-manga-mp3-song.html"
+       ],
+       "link":"https://www.youtube.com/watch?v=lcKwhxmB9WQ"
     }
 ] 
