@@ -320,6 +320,18 @@
         ],
         "link":"https://www.youtube.com/watch?v=DS-raAyMxl4"
     },
+{
+       "id":24,
+       "name":"Tere Sang Yara",
+       "lyrics":"https://www.azlyrics.com/lyrics/atifaslam/teresangyaara.html",
+       "album":"Rustom",
+       "Duration":"4 min 58 sec",
+       "singer":[
+         
+          "Atif Aslam"
+       ],
+       "link":"https://www.youtube.com/watch?v=gIOea2pgfIo"
+    },
     {
        "id":23,
        "name":"rang de basanti",
@@ -344,7 +356,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=O9U-KO90tnc&ab_channel=RBLyricsLover"
     },
-
 {
        "id":33,
        "name":"Sun raha hai na",
@@ -356,8 +367,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=eHRrZ5DQCV4"
     },
-
-
     {
        "id":24,
        "name":"Shinunoga E-Wa",
