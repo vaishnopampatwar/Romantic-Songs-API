@@ -252,30 +252,17 @@
        ],
        "link":"https://www.youtube.com/watch?v=ThPinA3THas"
     },
-    {
-        "id": 21,
-        "name": "Sanam Re",
-        "lyrics":"https://www.azlyrics.com/lyrics/arijitsingh/sanamretitlesong.html",
-        "album":"Sanam Re",
-        "Duration":"4 min 30 sec",
-        "singer":[
-            "Mithoon",
-            "Arijit Singh"
-        ],
-        "link":"https://www.youtube.com/watch?v=DS-raAyMxl4"
-    }
 {
-       "id":150,
-       "name":"Kesariya",
-       "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
-       "album":"Brahmastra",
-       "Duration":"2 min 52 sec",
+       "id":101,
+       "name":"Phir na aisi raat ayegi",
+       "lyrics":"https://www.hinditracks.in/phir-na-aisi-raat-lyrics",
+       "album":"lsc",
+       "Duration":"2 min 28 sec",
        "singer":[
-          "Arijit Singh",
-          "Pritam"
+          "Arigit"
        ],
-       "link":"https://youtu.be/BddP6PYo2gs"
-    },
+       "link":"https://www.youtube.com/watch?v=ThPinA3THas"
+    }
 
 
 
