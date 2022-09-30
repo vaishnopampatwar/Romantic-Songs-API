@@ -145,7 +145,19 @@
        ],
        "link":"https://www.youtube.com/watch?v=1rz1aug2Ypc"
 
-    }
+    },
+    {
+   "id": 12,
+   "name": "Raatan Lambiyan",
+   "lyrics": "https://www.hinditracks.in/raataan-lambiyan-lyrics",
+   "album": "Shershaah",
+   "Duration": "2 min 31 sec",
+   "singer": [
+       "Jubin Nautiyal, Asees Kaur"
+   ],
+  
+   "link": "https://youtu.be/gvyUuxdRdR4"
+      }
 
 
     
