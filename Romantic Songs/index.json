@@ -145,7 +145,19 @@
        ],
        "link":"https://www.youtube.com/watch?v=1rz1aug2Ypc"
 
-    }
+    },
+     {
+       "id":12,
+       "name":"nazm nazm",
+       "lyrics":"https://www.lyricsmint.com/bareilly-ki-barfi/nazm-nazm",
+       "album":"bareilly ki barfi",
+       "Duration":"3 min 14 sec",
+       "singer":[
+          "Ayushmann Khurana"
+       ],
+       "link":"https://www.youtube.com/watch?v=DK_UsATwoxI&ab_channel=ZeeMusicCompany"
+
+    },
 
 
     
