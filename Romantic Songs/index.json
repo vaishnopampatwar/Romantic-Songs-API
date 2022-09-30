@@ -168,6 +168,7 @@
           "Ashwani Machal"
        ],
        "link":"https://www.youtube.com/watch?v=UHy6P8EHIL4"
+
     },
      {
        "id":12,
@@ -187,32 +188,10 @@
        "album":"Monsoon Romance",
        "Duration":"4 min 12 sec",
        "singer":[
-          "Arijit Singh"
+          "Stebin Ben",
+          "Payal Dev"
        ],
-       "link":"https://www.youtube.com/watch?v=Iqu_W5W4YO4"
-    },
-{
-       "id":12,
-       "name":"DEKHA HAZARON DAFA APKO",
-       "lyrics":"https://genius.com/Arijit-singh-dekha-hazaro-dafaa-lyrics",
-       "album":"ROMANCE",
-       "Duration":"3:50",
-       "singer":[
-          "ARIJIT SINGH",
-          "PALAK MUCHHAL"
-       ],
-       "link":"https://www.bing.com/videos/search?q=dekha+hazaro+dafa+SINGERS&view=detail&mid=FE9573C0536904EA6E71FE9573C0536904EA6E71&FORM=VIRE"
-    },
-    {
-       "id":18,
-       "name":"Mask Off",
-       "lyrics":"https://www.lyrics.com/lyric/33748508/Mask+Off",
-       "album":"Future",
-       "Duration":"3 min 23 sec",
-       "singer":[
-          "Future"
-       ],
-       "youtube.com/watch?v=xvZqHgFz51I"
+       "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
     },
     {
        "id":17,
@@ -327,7 +306,7 @@
        "singer":[
           "Ed Sheeran"
        ],
-       "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
+       "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
 {
        "id":14,
@@ -430,6 +409,7 @@
        "link":"https://youtu.be/fXRvluHnjxE"
     },
 {  
+
        "id":20,
        "name":"You",
        "lyrics":"https://www.lyricsgoal.com/you-armaan-malik/",
@@ -581,6 +561,7 @@
        "link":"https://www.youtube.com/watch?v=x3bJeJDgRJQ"
     },
 {
+
     "id":151,
        "name":"Mazak",
        "lyrics":"https://themusicalsafari.com/mazaak-lyrics-anuv-jain/",
@@ -590,8 +571,7 @@
           "Anuv Jain",
        ],
        "link":"https://www.youtube.com/watch?v=zx0YGEi32r0"
-},
-{
+},{
         "id": 24,
         "name": "Musafir",
         "lyrics":"https://www.azlyrics.com/lyrics/atifaslam/musafir.html",
@@ -829,6 +809,17 @@
        ],
        "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
     },
+{
+       "id":30,
+       "name":"Bheegi Si Bhaagi Si",
+       "lyrics":"https://huntmylyrics.com/lyrics/bheegi-si-bhaagi-si/",
+       "album":"Raajneeti",
+       "Duration":"4 min 17 sec",
+       "singer":[
+          "Antara Mitra", "Mohit Chauhan", "Pritam Chakraborty"
+       ],
+       "link":"https://www.youtube.com/watch?v=yHWPO9DDnsk"
+    },
  {
        "id":31,
        "name":"Aayat",
@@ -839,9 +830,7 @@
           "Arijit Singh"
        ],
        "link":"https://www.youtube.com/watch?v=vKDsAB1ccn0"
-    }
-,
-
+    },
 {
        "id":31,
        "name":"nit khair mangda",
@@ -853,5 +842,4 @@
        ],
        "link":"https://www.youtube.com/watch?v=lcKwhxmB9WQ"
     }
-
 ] 
