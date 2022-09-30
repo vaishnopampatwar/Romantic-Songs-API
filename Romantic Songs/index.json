@@ -156,7 +156,7 @@
        ],
        "link":"https://www.youtube.com/watch?v=GPvBmcoriNo"
 
-    }
+    },
 {
        "id":11,
        "name":"Barrish Ban Jana",
@@ -168,6 +168,17 @@
           "Payal Dev"
        ],
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
+    },
+    {
+       "id":12,
+       "name":"The best part",
+       "lyrics":"https://www.google.com/search?q=the+best+part&rlz=1C1RLNS_enIN1017IN1017&oq=the+best+part&aqs=chrome.0.0i355i512j46i512j0i512j46i512l3j0i512l4.4486j0j15&sourceid=chrome&ie=UTF-8",
+       "album":" Freudian",
+       "Duration":"2 min 12 sec",
+       "singer":[
+          "olivia rodrigo"
+       ],
+       "link":"https://www.youtube.com/watch?v=i2KQ89HALdo"
     },
 
     
