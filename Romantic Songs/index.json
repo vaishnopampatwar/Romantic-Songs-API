@@ -182,7 +182,7 @@
        "link":"https://youtu.be/BddP6PYo2gs"
     },
 
-{
+    {
        "id":12,
        "name":"Cham Cham",
        "lyrics":"https://www.lyricsmint.com/baaghi/cham-cham",
@@ -194,6 +194,18 @@
        ],
        "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
     },
+
+    {
+       "id":15,
+       "name":"Kesariya",
+       "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
+       "album":"Romance",
+       "Duration":"2 min 52 sec",
+       "singer":[
+          "Arjit Singh"
+       ],
+       "link":"https://www.youtube.com/watch?v=BddP6PYo2gs"
+    }
 
     
 ]   
