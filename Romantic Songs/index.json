@@ -217,19 +217,6 @@
        "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
 {
-
-       "id":14,
-       "name":"You",
-       "lyrics":"https://www.lyricsgoal.com/you-armaan-malik/",
-       "album":"",
-       "Duration":"3 min 16 sec",
-       "singer":[
-          "Armaan Malik",
-       ],
-       "link":"https://www.youtube.com/watch?v=GsdYjCLcpN4"
-    },
-
-    {
        "id":46,
        "name":"Bande",
        "lyrics":"https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
@@ -241,18 +228,18 @@
        ],
        "link":"https://youtu.be/3rPEWcY6Oww"
     },
+]   "
 {
-       "id":100,
-       "name":"O meri laila",
-       "lyrics":"https://www.hinditracks.in/o-meri-laila-lyrics",
-       "album":"Laila Majnu",
-       "Duration":"2 min 28 sec",
-       "singer":[
-          "Atif Aslam"
-       ],
-       "link":"https://www.youtube.com/watch?v=ThPinA3THas"
-    }
+    
+    "id":47,'
+    "name":"So far away",
+    "lyrics":"https://www.azlyrics.com/lyrics/martingarrix/sofaraway.html",
+    "album":"X",
+    "Duration":"3 min 4 sec",
+    "singer":[
+    "Jamie Scott",
+    "Ramy Dya"
+    ],
+    "link":"https://youtu.be/o7iL2KzDh38"
+  },
 
-
-
-]   
