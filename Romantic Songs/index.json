@@ -303,6 +303,17 @@
        ],
        "link":"https://www.youtube.com/watch?v=aDFEb_W2t1Y"
     },
+{
+       "id":101,
+       "name":"Phir na aisi raat ayegi",
+       "lyrics":"https://www.hinditracks.in/phir-na-aisi-raat-lyrics",
+       "album":"lsc",
+       "Duration":"2 min 28 sec",
+       "singer":[
+          "Arigit"
+       ],
+       "link":"https://www.youtube.com/watch?v=ThPinA3THas"
+    },
     {
         "id": 22,
         "name": "Sanam Re",
@@ -315,6 +326,18 @@
         ],
         "link":"https://www.youtube.com/watch?v=DS-raAyMxl4"
     },
+{
+       "id":24,
+       "name":"Tere Sang Yara",
+       "lyrics":"https://www.azlyrics.com/lyrics/atifaslam/teresangyaara.html",
+       "album":"Rustom",
+       "Duration":"4 min 58 sec",
+       "singer":[
+         
+          "Atif Aslam"
+       ],
+       "link":"https://www.youtube.com/watch?v=gIOea2pgfIo"
+    },
     {
        "id":23,
        "name":"rang de basanti",
@@ -322,10 +345,21 @@
        "album":"sholay",
        "Duration":"5 min 52 sec",
        "singer":[
-          "Arijit Singh",
-          "Pritam"
+          " Usha Mangeshkar", "Asha Bhosle", "Kishore Kumar", "Mohammed Rafi"
        ],
-       "link":"https://youtu.be/BddP6PYo2gs"
+       "link":"https://www.youtube.com/watch?v=q_MxDz18l4I"
+    },
+{
+       "id":152,
+       "name":"Saibo",
+       "lyrics":"https://www.lyricsmint.com/shor-in-the-city/saibo",
+       "album":"Shor in the City",
+       "Duration":"3 min 13 sec",
+       "singer":[
+          "Shreya Ghoshal",
+          "Tochi Raina"
+       ],
+       "link":"https://www.youtube.com/watch?v=O9U-KO90tnc&ab_channel=RBLyricsLover"
     },
 {
        "id":33,
@@ -338,8 +372,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=eHRrZ5DQCV4"
     },
-
-
     {
        "id":24,
        "name":"Shinunoga E-Wa",
