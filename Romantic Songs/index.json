@@ -1539,6 +1539,10 @@
     },
 {
        "id":30,
+       "name":"kyon",
+       "lyrics":"https://www.jiosaavn.com/lyrics/kyon-lyrics/GwlccDBBQ1E",
+       "album":"Barfi",
+       "Duration":"4 min 25 sec",
        "name":"Bheegi Si Bhaagi Si",
        "lyrics":"https://huntmylyrics.com/lyrics/bheegi-si-bhaagi-si/",
        "album":"Raajneeti",
@@ -1555,10 +1559,11 @@
        "album":"Bajirao Mastani",
        "Duration":"4 min 32 sec",
        "singer":[
-          "Arijit Singh"
+          "Papon and Sunidhi Chauhan"
        ],
-       "link":"https://www.youtube.com/watch?v=vKDsAB1ccn0"
+       "link":"https://www.youtube.com/watch?v=Rq7tyOcVgLQ"
     },
+
 {
        "id":31,
        "name":"nit khair mangda",
@@ -1591,3 +1596,4 @@
 
     }
 ]
+
