@@ -157,7 +157,6 @@
           "Alan Walker"
        ],
        "link":"https://www.youtube.com/watch?v=GPvBmcoriNo"
-
     },
     {
        "id":12,
@@ -169,6 +168,7 @@
           "Ashwani Machal"
        ],
        "link":"https://www.youtube.com/watch?v=UHy6P8EHIL4"
+
     },
      {
        "id":12,
@@ -188,19 +188,8 @@
        "album":"Monsoon Romance",
        "Duration":"4 min 12 sec",
        "singer":[
-          "Arijit Singh"
-       ],
-       "link":"https://www.youtube.com/watch?v=Iqu_W5W4YO4"
-    },
-{
-       "id":12,
-       "name":"DEKHA HAZARON DAFA APKO",
-       "lyrics":"https://genius.com/Arijit-singh-dekha-hazaro-dafaa-lyrics",
-       "album":"ROMANCE",
-       "Duration":"3:50",
-       "singer":[
-          "ARIJIT SINGH",
-          "PALAK MUCHHAL"
+          "Stebin Ben",
+          "Payal Dev"
        ],
        "link":"https://www.bing.com/videos/search?q=dekha+hazaro+dafa+SINGERS&view=detail&mid=FE9573C0536904EA6E71FE9573C0536904EA6E71&FORM=VIRE"
     },
@@ -328,7 +317,7 @@
        "singer":[
           "Ed Sheeran"
        ],
-       "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
+       "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
     },
 {
        "id":14,
@@ -431,6 +420,7 @@
        "link":"https://youtu.be/fXRvluHnjxE"
     },
 {  
+
        "id":20,
        "name":"You",
        "lyrics":"https://www.lyricsgoal.com/you-armaan-malik/",
@@ -556,7 +546,20 @@
        ],
        "link":"https://www.youtube.com/watch?v=i2KQ89HALdo"
     },
-
+    {
+       "id":12,
+       "name":"Jananu Meri Jaan",
+       "lyrics":"https://www.google.com/search?gs_ssp=eJzj4tFP1zcsNjAtMcxLMjZg9OLLSswrVchNLcpUyEpMzAMAhvYJSw&q=janu+meri+jaan&rlz=1C1RXQR_enIN965IN965&oq=jannu+meri+&aqs=chrome.1.69i57j46i10i433j0i10j46i10j0i10l5.5299j0j7&sourceid=chrome&ie=UTF-8#wptab=si:AC1wQDCnZtfNUI2fl7K6t9yeOkKftycXbaAPkjjFcOiXQzcxEpVqSoS5a3NClkEeImCVa-6LqvaxEORwPvUPsmvCPSJI80C7Exnlv0lff1J7fPIYOnNcQxGYLFzeaJTA0IIjO_aGoFR0VP3-xxXoJZuyp8WNb6qDCyNKVRpOl1J8uK-qJ-9xP6A%3D",
+       "album":"Romance",
+       "Duration":"5 min 18 sec",
+       "singer":[
+          "Kishor kumar",
+          "Mohammed Rafi",
+          "Asha Bhosle",
+          "Usha Mangeshkar"
+       ],
+       "https://www.youtube.com/watch?v=KeDi_7twe5w"
+    },
 {
        "id":17,
        "name":"Tu Hi Haqeeqat",
@@ -569,6 +572,7 @@
        "link":"https://www.youtube.com/watch?v=x3bJeJDgRJQ"
     },
 {
+
     "id":151,
        "name":"Mazak",
        "lyrics":"https://themusicalsafari.com/mazaak-lyrics-anuv-jain/",
@@ -578,8 +582,7 @@
           "Anuv Jain"
        ],
        "link":"https://www.youtube.com/watch?v=zx0YGEi32r0"
-},
-{
+},{
         "id": 24,
         "name": "Musafir",
         "lyrics":"https://www.azlyrics.com/lyrics/atifaslam/musafir.html",
@@ -612,8 +615,18 @@
           "Fuji Kaze"
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-
 },
+    {
+        "id":14,
+        "name":"lag ja gale",
+        "lyrics":"https://gaana.com/lyrics/lag-ja-gale-8",
+        "album":"Woh kaun thi",
+        "Duration":"4 min 18 sec",
+        "singer":[
+           "Lata Mangeshkar"
+        ],
+        "link":"https://www.youtube.com/watch?v=TFr6G5zveS8"
+    },
 {
        "id":30,
        "name":"Teri hogaiyaan",
@@ -758,7 +771,6 @@
        "album":"YEllow Diary",
        "Duration":"3 min 02 sec",
        "singer":[
-          
            "Shilpa Rao"
        ],
        "link":"https://www.youtube.com/watch?v=xOsZj48vXGA&ab_channel=SonyMusicIndia"
@@ -818,5 +830,49 @@
           "Garry Sandhu"
        ],
        "link":"https://www.youtube.com/watch?v=SEyzZw7xiPo"
+   },
+{
+       "id":909,
+       "name":"Love me like you do",
+       "lyrics":"https://genius.com/One-direction-night-changes-lyrics",
+       "album":"four",
+       "Duration":"4 min 1 sec",
+       "singer":[
+          "Ellie Doungling"
+       ],
+       "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
+    },
+{
+       "id":30,
+       "name":"Bheegi Si Bhaagi Si",
+       "lyrics":"https://huntmylyrics.com/lyrics/bheegi-si-bhaagi-si/",
+       "album":"Raajneeti",
+       "Duration":"4 min 17 sec",
+       "singer":[
+          "Antara Mitra", "Mohit Chauhan", "Pritam Chakraborty"
+       ],
+       "link":"https://www.youtube.com/watch?v=yHWPO9DDnsk"
+    },
+ {
+       "id":31,
+       "name":"Aayat",
+       "lyrics":"https://www.lyricsmint.com/bajirao-mastani/aayat",
+       "album":"Bajirao Mastani",
+       "Duration":"4 min 32 sec",
+       "singer":[
+          "Arijit Singh"
+       ],
+       "link":"https://www.youtube.com/watch?v=vKDsAB1ccn0"
+    },
+{
+       "id":31,
+       "name":"nit khair mangda",
+       "lyrics":"https://pagalsong.in/nit-khair-manga-mp3-song.html",
+       "album":"https://pagalsong.in/nit-khair-manga-mp3-song.htmlhttps://pagalsong.in/nit-khair-manga-mp3-song.html",
+       "Duration":"4 min 1 sec",
+       "singer":[
+          "One Directionhttps://pagalsong.in/nit-khair-manga-mp3-song.html"
+       ],
+       "link":"https://www.youtube.com/watch?v=lcKwhxmB9WQ"
     }
 ] 
