@@ -458,7 +458,19 @@
     ],
 "link":"https://youtu.be/S0WPSYFm7iE"
 },
-        {
+{
+       "id":27,
+       "name":"Roz Roz",
+       "lyrics":"https://www.originallyric.com/roz-roz-lyrics-the-yellow-diary-shilpa-rao/",
+       "album":"YEllow Diary",
+       "Duration":"3 min 02 sec",
+       "singer":[
+          
+           "Shilpa Rao"
+       ],
+       "link":"https://www.youtube.com/watch?v=xOsZj48vXGA&ab_channel=SonyMusicIndia"
+    },
+{
     "id":27,
     "name":"Main Yahaan Hoon",
     "lyrics":"https://gaana.com/lyrics/main-yahaan-hoon",
