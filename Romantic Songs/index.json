@@ -365,6 +365,31 @@
 
     {
        "id":25,
+       "name":"Dil ne yeh kaha hain dil se",
+       "lyrics":"https://gaana.com/lyrics/dil-ne-yeh-kaha-hain-dil-se",
+       "album":"Dhadkan",
+       "Duration":"7 min 33 sec",
+       "singer":[
+          "Alka Yagnik",
+          "Udit Narayan"
+       ],
+       "link":"https://www.youtube.com/watch?v=MFommhp4XVk&ab_channel=IshtarMusic"
+},
+    
+        {
+       "id":25,
+       "name":"Shaayraana",
+       "lyrics":"https://www.lyricsmint.com/holiday/shaayraana",
+       "album":"Holiday",
+       "Duration":"4 min 36 sec",
+       "singer":[
+          "Arjit Singh"
+       ],
+       "link":"https://www.youtube.com/watch?v=6HUYAfCB728"
+},
+
+    {
+       "id":26,
        "name":"Kesariya",
        "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
        "album":"Romance",
@@ -373,6 +398,18 @@
           "Arjit Singh"
        ],
        "link":"https://www.youtube.com/watch?v=BddP6PYo2gs"
+    },
+{
+       "id":26,
+       "name":"Mere Hath Mein",
+       "lyrics":"https://gaana.com/lyrics/mere-haath-mein",
+       "album":"Fanaa",
+       "Duration":"4 min 46 sec",
+       "singer":[
+          "Sonu Nigam",
+           "Sunidhi Chauhan"
+       ],
+       "link":"https://www.youtube.com/watch?v=qtz5mpvgAM0"
     },
  {
        "id":26,
@@ -408,8 +445,42 @@
     "Kishor kumar"
     ],
 "link":"https://youtu.be/S0WPSYFm7iE"
-}
-,{
+},
+ {
+    "id":27,
+    "name":"bol do na zara",
+    "lyrics":"https://www.ilyricshub.com/bol-do-na-zara-azhar-armaan-malik/",
+    "album":"Romance",
+    "Duration":"4 min 23 sec",
+    "singer":[
+    "Armaan Malik"
+    ],
+"link":"https://www.youtube.com/watch?v=f9_C8J4gqzQ"
+},
+{
+       "id":27,
+       "name":"Roz Roz",
+       "lyrics":"https://www.originallyric.com/roz-roz-lyrics-the-yellow-diary-shilpa-rao/",
+       "album":"YEllow Diary",
+       "Duration":"3 min 02 sec",
+       "singer":[
+          
+           "Shilpa Rao"
+       ],
+       "link":"https://www.youtube.com/watch?v=xOsZj48vXGA&ab_channel=SonyMusicIndia"
+    },
+{
+    "id":27,
+    "name":"Janib",
+    "lyrics":"https://www.lyricsmint.com/dilliwaali-zaalim-girlfriend/janib",
+    "album":"Romance",
+    "Duration":" min 52 sec",
+    "singer":[
+    "Arihit Singh"
+    ],
+"link":"https://www.youtube.com/watch?v=YbJXFwAkz2c"
+},
+{
     "id":26,
     "name":"Tip Tip Barsa Pani",
     "lyrics":"https://www.hinditracks.in/tip-tip-barsa-pani-hindi-lyrics-mohra",
@@ -420,3 +491,4 @@
     ], 
     "link":"https://www.youtube.com/watch?v=BtlnpBb4O8E"
 }
+]   
