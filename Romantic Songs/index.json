@@ -362,6 +362,28 @@
         "Asees Kaur"
        ],
        "link":"https://youtu.be/a6cJAFFQn_I"
-    }
+    },
+    {
+    "id":25,
+    "name":"Rang Lageya",
+    "lyrics":"https://www.lyricsbull.com/rang-lageya-mohit-chauhan/",
+    "album":"Romance",
+    "Duration":"4 min 22 sec",
+    "singer":[
+    "Mohit Chauhan"
+    ],
+"link":"https://www.youtube.com/watch?v=Qg-jcTYM5DQ"
+},
+    {
+    "id":26,
+    "name":"mere samne wali khidki me",
+    "lyrics":"https://www.hinditracks.in/mere-samne-wali-khidki-mein-lyrics",
+    "album":"Romance",
+    "Duration":"4 min 40 sec",
+    "singer":[
+    "Kishor kumar"
+    ],
+"link":"https://youtu.be/S0WPSYFm7iE"
+}
 
 ]   
