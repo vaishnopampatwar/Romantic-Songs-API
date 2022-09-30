@@ -287,7 +287,7 @@
            "Shreya Ghoshal"
        ],
        "link":"https://www.youtube.com/watch?v=aDFEb_W2t1Y"
-  },
+
 
     {
         "id": 22,
@@ -301,20 +301,22 @@
         ],
         "link":"https://www.youtube.com/watch?v=DS-raAyMxl4"
     },
+
+
 {
        "id":23,
-       "name":"Kesariya",
-       "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
-       "album":"Brahmastra",
-       "Duration":"2 min 52 sec",
+       "name":"Pasoori",
+       "lyrics":"https://www.ilyricshub.com/pasoori-ali-sethi-shae-gill/",
+       "album":"Coke Studio",
+       "Duration":"4 min 36 sec",
        "singer":[
-          "Arijit Singh",
-          "Pritam"
+           "Shae Gill", "Ali Sethi"
        ],
-       "link":"https://youtu.be/BddP6PYo2gs"
+       "link":"https://www.youtube.com/watch?v=5Eqb_-j3FDA"
     },
+
     {
-       "id":24,
+       "id":25,
        "name":"Shinunoga E-Wa",
        "lyrics":"https://www.lyrical-nonsense.com/global/lyrics/fujii-kaze/shinu-no-ga-ii-wa/",
        "album":"HELP EVER HURT NEVER",
@@ -324,5 +326,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
 }
+
 
 ]   
