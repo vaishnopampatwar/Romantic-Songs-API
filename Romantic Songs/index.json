@@ -241,6 +241,19 @@
     },
 
 {
+       "id":101,
+       "name":"Shinunoga E-Wa",
+       "lyrics":"https://www.lyrical-nonsense.com/global/lyrics/fujii-kaze/shinu-no-ga-ii-wa/",
+       "album":"HELP EVER HURT NEVER",
+       "Duration":"3 min 09 sec",
+       "singer":[
+          "Fuji Kaze"
+       ],
+       "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
+},
+
+
+{
        "id":21,
        "name":"Pal",
        "lyrics":"https://www.lyricsmint.com/jalebi/pal-arijit-singh",
@@ -251,6 +264,7 @@
            "Shreya Ghoshal"
        ],
        "link":"https://www.youtube.com/watch?v=aDFEb_W2t1Y"
+
 
     {
         "id": 22,
@@ -275,6 +289,6 @@
           "Pritam"
        ],
        "link":"https://youtu.be/BddP6PYo2gs"
-    },
+    }
 
 ]   
