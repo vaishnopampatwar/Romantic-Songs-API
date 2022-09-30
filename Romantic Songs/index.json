@@ -556,7 +556,20 @@
        ],
        "link":"https://www.youtube.com/watch?v=i2KQ89HALdo"
     },
-
+    {
+       "id":12,
+       "name":"Jananu Meri Jaan",
+       "lyrics":"https://www.google.com/search?gs_ssp=eJzj4tFP1zcsNjAtMcxLMjZg9OLLSswrVchNLcpUyEpMzAMAhvYJSw&q=janu+meri+jaan&rlz=1C1RXQR_enIN965IN965&oq=jannu+meri+&aqs=chrome.1.69i57j46i10i433j0i10j46i10j0i10l5.5299j0j7&sourceid=chrome&ie=UTF-8#wptab=si:AC1wQDCnZtfNUI2fl7K6t9yeOkKftycXbaAPkjjFcOiXQzcxEpVqSoS5a3NClkEeImCVa-6LqvaxEORwPvUPsmvCPSJI80C7Exnlv0lff1J7fPIYOnNcQxGYLFzeaJTA0IIjO_aGoFR0VP3-xxXoJZuyp8WNb6qDCyNKVRpOl1J8uK-qJ-9xP6A%3D",
+       "album":"Romance",
+       "Duration":"5 min 18 sec",
+       "singer":[
+          "Kishor kumar",
+          "Mohammed Rafi",
+          "Asha Bhosle",
+          "Usha Mangeshkar"
+       ],
+       "https://www.youtube.com/watch?v=KeDi_7twe5w"
+    },
 {
        "id":17,
        "name":"Tu Hi Haqeeqat",
