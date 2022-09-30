@@ -350,7 +350,19 @@
           "Fuji Kaze"
        ],
        "link":"https://www.youtube.com/watch?v=w-vVSeeCf1k"
-    },
+},
+{
+       "id":30,
+       "name":"Teri hogaiyaan",
+       "lyrics":"https://lyricsmama.com/teri-hogaiyaan-lyrics-vishal-mishra/",
+       "album":"Broken But Beautiful Season 2",
+       "Duration":"2 min 53 sec",
+       "singer":[
+           "Vishal Mishra"
+       ],
+       "link":"https://www.youtube.com/watch?v=6QoBpFUX6CE"
+   },
+
     {
        "id":25,
        "name":"Kesariya",
