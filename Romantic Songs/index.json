@@ -194,6 +194,18 @@
        ],
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
     },
+{
+       "id":12,
+       "name":"DEKHA HAZARON DAFA APKO",
+       "lyrics":"https://genius.com/Arijit-singh-dekha-hazaro-dafaa-lyrics",
+       "album":"ROMANCE",
+       "Duration":"3:50",
+       "singer":[
+          "ARIJIT SINGH",
+          "PALAK MUCHHAL"
+       ],
+       "link":"https://www.bing.com/videos/search?q=dekha+hazaro+dafa+SINGERS&view=detail&mid=FE9573C0536904EA6E71FE9573C0536904EA6E71&FORM=VIRE"
+    },
     {
        "id":18,
        "name":"Mask Off",
@@ -547,10 +559,7 @@
        ],
        "link":"https://www.youtube.com/watch?v=x3bJeJDgRJQ"
     },
-
-    
-]   
-
+{
     "id":151,
        "name":"Mazak",
        "lyrics":"https://themusicalsafari.com/mazaak-lyrics-anuv-jain/",
@@ -561,7 +570,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=zx0YGEi32r0"
 },
-
 {
         "id": 24,
         "name": "Musafir",
