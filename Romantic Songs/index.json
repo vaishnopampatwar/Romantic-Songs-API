@@ -433,7 +433,18 @@
     "Kishor kumar"
     ],
 "link":"https://youtu.be/S0WPSYFm7iE"
-} ,
+},
+ {
+    "id":27,
+    "name":"bol do na zara",
+    "lyrics":"https://www.ilyricshub.com/bol-do-na-zara-azhar-armaan-malik/",
+    "album":"Romance",
+    "Duration":"4 min 23 sec",
+    "singer":[
+    "Armaan Malik"
+    ],
+"link":"https://www.youtube.com/watch?v=f9_C8J4gqzQ"
+},
 {
        "id":27,
        "name":"Roz Roz",
