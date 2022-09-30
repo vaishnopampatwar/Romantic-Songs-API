@@ -169,18 +169,6 @@
        ],
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
     },
-{
-       "id":14,
-       "name":"Kesariya",
-       "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
-       "album":"Brahmastra",
-       "Duration":"2 min 52 sec",
-       "singer":[
-          "Arijit Singh",
-          "Pritam"
-       ],
-       "link":"https://youtu.be/BddP6PYo2gs"
-    },
 
 {
        "id":12,
@@ -193,6 +181,17 @@
           "Meet Bros"
        ],
        "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
+    },
+{
+       "id":13,
+       "name":"Dil Deewana, Maine Pyar Kiya",
+       "lyrics":"Asad Bhopali",
+       "album":"Monsoon Romance",
+       "Duration":"4 min 39 sec",
+       "singer":[
+          "S. P. Balasubrahmanyam"
+       ],
+       "link":"https://www.youtube.com/watch?v=JlmO1qHUwro"
     },
 
     
