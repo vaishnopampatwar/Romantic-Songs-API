@@ -1257,7 +1257,15 @@
        ],
        "link":"https://www.youtube.com/watch?v=lcKwhxmB9WQ"
     },
-   
+{
+       "id":32,
+       "name":"achchi lagti ho",
+       "lyrics":"https://www.lyricsbogie.com/achchi-lagti-ho-title/",
+       "album":"https://www.youtube.com/watch?v=Lm1wbTxFv0U",
+       "Duration":"4 min 7 sec",
+       "singer":[
+          "Addy nagar"
+       ],
     {
       "id":32,
        "name":"Tera Hone Laga Hoon",
@@ -1266,5 +1274,6 @@
        "Duration":"4 min 54 sec",
        "singer":["Atif Aslam, Alisha Chinai"],
        "link":"https://www.youtube.com/watch?v=rTuxUAuJRyY"
+
     }
 ]
