@@ -169,31 +169,20 @@
        ],
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
     },
-{
-       "id":14,
-       "name":"Kesariya",
-       "lyrics":"https://www.ilyricshub.com/kesariya-brahmastra/",
-       "album":"Brahmastra",
-       "Duration":"2 min 52 sec",
+
+  {
+       "id":12,
+       "name":"Chaand Baaliyan",
+       "lyrics":"https://lyricsmint.com/aditya-a/chaand-baaliyan",
+       "album":"Monsoon Romance",
+       "Duration":"2 min 02 sec",
        "singer":[
-          "Arijit Singh",
-          "Pritam"
+          "Aditya A"
+        
        ],
-       "link":"https://youtu.be/BddP6PYo2gs"
+       "link":"https://www.youtube.com/watch?v=7c3-Gei5j4w"
     },
 
-{
-       "id":12,
-       "name":"Cham Cham",
-       "lyrics":"https://www.lyricsmint.com/baaghi/cham-cham",
-       "album":"Monsoon Romance",
-       "Duration":"3 min 51 sec",
-       "singer":[
-          "Monali Thakur",
-          "Meet Bros"
-       ],
-       "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
-    },
 
     
 ]   
