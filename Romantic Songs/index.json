@@ -195,6 +195,17 @@
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
     },
     {
+       "id":18,
+       "name":"Mask Off",
+       "lyrics":"https://www.lyrics.com/lyric/33748508/Mask+Off",
+       "album":"Future",
+       "Duration":"3 min 23 sec",
+       "singer":[
+          "Future"
+       ],
+       "youtube.com/watch?v=xvZqHgFz51I"
+    },
+    {
        "id":17,
        "name":"Photograph",
        "lyrics":"https://www.azlyrics.com/lyrics/edsheeran/photograph.html",
@@ -307,7 +318,7 @@
        "singer":[
           "Ed Sheeran"
        ],
-       "link":"https://www.youtube.com/watch?v=nSDgHBxUbVQ"
+       "link":"https://www.youtube.com/watch?v=f6vY6tYvKGA"
     },
 {
        "id":14,
@@ -410,7 +421,6 @@
        "link":"https://youtu.be/fXRvluHnjxE"
     },
 {  
-
        "id":20,
        "name":"You",
        "lyrics":"https://www.lyricsgoal.com/you-armaan-malik/",
