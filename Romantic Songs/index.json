@@ -213,7 +213,7 @@
        "singer":[
           "Future"
        ],
-       "youtube.com/watch?v=xvZqHgFz51I"
+       "link" : "youtube.com/watch?v=xvZqHgFz51I"
     },
     {
        "id":17,
@@ -337,7 +337,7 @@
        "album":"X",
        "Duration":"3 min 57 sec",
        "singer":[
-          "Taylor swift",
+          "Taylor swift"
        ],
        "link":"https://www.youtube.com/watch?v=nSDgHhjBxUbVQ"
     },
@@ -426,7 +426,7 @@
        "album":"G",
        "Duration":"5 min 19 sec",
        "singer":[
-          "suraj mali",
+          "suraj mali"
        ],
        "link":"https://youtu.be/fXRvluHnjxE"
     },
@@ -476,7 +476,7 @@
        "link":"https://www.youtube.com/watch?v=aDFEb_W2t1Y"
 },
 { 
-    "id":47,'
+    "id":47,
     "name":"So far away",
     "lyrics":"https://www.azlyrics.com/lyrics/martingarrix/sofaraway.html",
     "album":"X",
@@ -575,7 +575,7 @@
        "album":"Mazak",
        "Duration":"3 min 53 sec",
        "singer":[
-          "Anuv Jain",
+          "Anuv Jain"
        ],
        "link":"https://www.youtube.com/watch?v=zx0YGEi32r0"
 },
@@ -598,7 +598,7 @@
        "album":"Aashiqui 2",
        "Duration":"8 min 35 sec",
        "singer":[
-          "ANKIT TIWARI",
+          "ANKIT TIWARI"
        ],
        "link":"https://www.youtube.com/watch?v=eHRrZ5DQCV4"
     },
@@ -807,5 +807,16 @@
           "One Direction"
        ],
        "link":"https://www.youtube.com/watch?v=7KPyunRIjr0"
+    },
+ {
+       "id":30,
+       "name":"Do Gallan",
+       "lyrics":"https://genius.com/Garry-sandhu-do-gallan-lets-talk-lyrics",
+       "album":"Let's Talk",
+       "Duration":"4 min 37 sec",
+       "singer":[
+          "Garry Sandhu"
+       ],
+       "link":"https://www.youtube.com/watch?v=SEyzZw7xiPo"
     }
 ] 
