@@ -1749,10 +1749,10 @@
 },
 {
 	"id" : 100,
-	"name" ; "Make It Right",
-	"lyrics" : "https://www.azlyrics.com/lyrics/bangtanboys/makeitright.html"
-	"album" : "Map Of The Soul : Persona"
+	"name" : "Make It Right",
+	"lyrics" : "https://www.azlyrics.com/lyrics/bangtanboys/makeitright.html",
+	"album" : ["Map Of The Soul : Persona"],
 	"Duration' : "4 min 18 sec",
-	"singer" : "BTS","Lauv"
-},
+	"singer" : ["BTS","Lauv"]
 }
+]
