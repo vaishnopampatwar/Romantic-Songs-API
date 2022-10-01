@@ -1669,5 +1669,13 @@
        "Duration":"4 min 54 sec",
        "singer":["Arijit Singh"],
        "link":"https://youtu.be/piUHBTXsoiY"
-    }
-]
+},
+    {
+     "id":52,
+     "name":"Mast Magaan",
+     "lyrics":"https://gaana.com/lyrics/mast-magan-1",
+     "album":"2 States",
+     "Duration":"4 min 40 sec",
+     "singer":["Arijit Singh", "Chinmayi Sripada"],
+     "link":"https://youtu.be/fXRvluHnjxE"
+  },
