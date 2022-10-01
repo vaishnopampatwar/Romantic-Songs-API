@@ -1545,6 +1545,53 @@
         ],
     "link":"https://youtu.be/sP2w3vaTD8Q"
     },
+
+    {
+        "id":73,
+        "name":"Qaafirana",
+        "lyrics":"https://www.lyricsmint.com/kedarnath/qaafirana",
+        "album":"Romance",
+        "Duration":"6 min 15 sec",
+        "singer":[
+         "Arijit Singh" ,"Nikhita Gandhi"
+        ],
+    "link":"https://www.youtube.com/watch?v=ZmcBC9-wAXM"
+    },
+    {
+        "id":74,
+        "name":"Tera Fitoor",
+        "lyrics":"https://www.ilyricshub.com/tera-fitoor-genius-arijit-singh/",
+        "album":"Romance",
+        "Duration":"5 min 33 sec",
+        "singer":[
+         "Arijit Singh"
+        ],
+    "link":"https://www.youtube.com/watch?v=qfdShSZZxlg"
+    },
+    {
+        "id":75,
+        "name":"Dil Meri Na Sune",
+        "lyrics":"https://lyricsmama.com/dil-meri-na-sune-lyrics-genius-atif-aslam/",
+        "album":"Romance",
+        "Duration":"3 min 08 sec",
+        "singer":[
+         "Atif Aslam"
+        ],
+    "link":"https://www.youtube.com/watch?v=JylZrg49aXU"
+    },
+    {
+        "id":75,
+        "name":"Holi Biraj Ma",
+        "lyrics":"https://www.lyricsmint.com/genius/holi-biraj-ma",
+        "album":"Romance",
+        "Duration":"4 min 00 sec",
+        "singer":[
+         "Jubin Nautiyal"
+        ],
+    "link":"https://www.youtube.com/watch?v=_v_dIY-j2w0"
+    },
+
+
     {
        "id":29,
        "name":"Umbrealla",
