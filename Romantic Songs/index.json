@@ -1733,10 +1733,7 @@
      "Duration":"3 min 45 sec",
      "singer":[
         "Magic"
-
-
-],
-     "link":"https://youtu.be/PIh2xe4jnpk"
+   "link":"https://youtu.be/PIh2xe4jnpk"
   },
 {
 	"id" : 4,
@@ -1747,3 +1744,36 @@
 	"singer" : "Ajay","Atul",
 	"link" : "https://www.google.com/search?q=zingat+song+&rlz=1C1YTUH_enIN1014IN1014&sxsrf=ALiCzsaMFBE3aI0niYrDY6nahmKRBcNqcA%3A1664599693924&ei=jcY3Y--BOKebseMPjauquAo&ved=0ahUKEwiv_MuLnb76AhWnTWwGHY2VCqcQ4dUDCA4&uact=5&oq=zingat+song+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBwguEAoQywEyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywE6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQsQNY-AhgmxVoAXABeACAAekBiAHbCJIBBTAuNC4ymAEAoAEByAEIwAEB&sclient=gws-wiz"
 }
+,
+{
+	"id" : 105,
+	"name" ; "Chaand Baaliyan",
+	"lyrics" : "https://www.jiosaavn.com/lyrics/chaand-baaliyan-lyrics/PgkYfBVDTmA",
+	"album" : "Chaand Baaliyan",
+	"Duration' : "1 min 44 sec",
+	"singer" : "Aditya A",
+	"link" : "https://www.youtube.com/watch?v=7c3-Gei5j4w"
+}
+,
+{
+	"id" : 106,
+	"name" ; "Suraj Hua Maddham",
+	"lyrics" : "http://www.lyricsgram.com/song/suraj-hua-maddham-17030",
+	"album" : "Kabhi Khushi Kabhie Gham",
+	"Duration' : "1 min 10 sec",
+	"singer" : "Alka Yagnik", "Sandesh Shandilya","Sonu Nigam",
+	"link" : "https://www.youtube.com/watch?v=L0zKs8i7Nc8"
+}
+,
+{
+	"id" : 106,
+	"name" ; "Tera bina",
+	"lyrics" : "https://www.lyricsmint.com/1921/tere-bina-arijit-singh",
+	"album" : "Haseena Parkar",
+	"Duration' : "2 min 52 sec",
+	"singer" : "Arijit Singh" ,"Priya Saraiya",
+	"link" : "https://www.youtube.com/watch?v=sL_a7FSV7Ns"
+}
+]
+     
+
