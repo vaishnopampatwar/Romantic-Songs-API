@@ -1746,4 +1746,17 @@
 	"Duration' : "3 min 52 sec",
 	"singer" : "Ajay","Atul",
 	"link" : "https://www.google.com/search?q=zingat+song+&rlz=1C1YTUH_enIN1014IN1014&sxsrf=ALiCzsaMFBE3aI0niYrDY6nahmKRBcNqcA%3A1664599693924&ei=jcY3Y--BOKebseMPjauquAo&ved=0ahUKEwiv_MuLnb76AhWnTWwGHY2VCqcQ4dUDCA4&uact=5&oq=zingat+song+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBwguEAoQywEyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywE6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQsQNY-AhgmxVoAXABeACAAekBiAHbCJIBBTAuNC4ymAEAoAEByAEIwAEB&sclient=gws-wiz"
-}
+},
+{
+     "id":175,
+     "name":"Keh do tuhme",
+     "lyrics":"https://www.smule.com/song/original-kishore-kumar-asha-bhosle-keh-doon-tumhe-karaoke-lyrics/808080207_1598286/arrangement",
+     "album":"Deewar (1975)",
+     "Duration":"4 min 47 sec",
+     "singer":[
+        "Kishore Kumar",
+        "Asha Bhosle"
+        
+     ],
+     "link":"https://www.youtube.com/watch?v=YWIm9MLAdc0"
+  }
