@@ -37,15 +37,6 @@
      ],
      "link":"https://youtu.be/zfABYXP_NSA"
   },
-  {
-   "id":53,
-   "name":"Badtameez Dil",
-   "lyrics":"https://lyricsmama.com/badtameez-dil-lyrics-yeh-jawaani-hai-deewani/",
-   "album":"Yeh Jawaani Hai Deewani",
-   "Duration":"4 min 15 sec",
-   "singer":["Benny Dayal,Shefali Alvares"],
-   "link":"https://www.youtube.com/watch?v=N0uDmkTV08Y"
-},
    {
      "id":4,
      "name":"Rabba",
@@ -1717,6 +1708,17 @@
      ],
      "link":"https://youtu.be/fXRvluHnjxE"
   },
+{
+     "id":34,
+     "name":"Nain ta heere",
+     "lyrics":"https://lyricsworldyou.com/2022/06/nain-ta-heere-lyrics-jugjugg-jeeyo.html",
+     "album":"jugjugg jeeyo",
+     "Duration":"3 min 43 sec",
+     "singer":[
+        "Vishal"
+     ],
+     "link":"https://www.youtube.com/watch?v=HHZ5FzIam3c"
+  },
 	{
       "id":35,
        "name":"Raabta",
@@ -1756,12 +1758,3 @@
 	"singer" : "Ajay","Atul",
 	"link" : "https://www.google.com/search?q=zingat+song+&rlz=1C1YTUH_enIN1014IN1014&sxsrf=ALiCzsaMFBE3aI0niYrDY6nahmKRBcNqcA%3A1664599693924&ei=jcY3Y--BOKebseMPjauquAo&ved=0ahUKEwiv_MuLnb76AhWnTWwGHY2VCqcQ4dUDCA4&uact=5&oq=zingat+song+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBwguEAoQywEyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywE6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQsQNY-AhgmxVoAXABeACAAekBiAHbCJIBBTAuNC4ymAEAoAEByAEIwAEB&sclient=gws-wiz"
 }
-    {
-     "id":60,
-     "name":"Abhi Na Jao Chhod Kar",
-     "lyrics":"https://www.jiosaavn.com/lyrics/abhi-na-jao-chhod-kar-lyrics/EV0PBVlbb3Y",
-     "album":"Hum Dono",
-     "Duration":"4 min 07 sec",
-     "singer":["Mohd Rafi", "Asha Bhosle"],
-     "link":"https://www.youtube.com/watch?v=mfEQgoVi7P4"
-  },
