@@ -1786,5 +1786,16 @@
 	"Duration' : "3 min 52 sec",
 	"singer" : "Ajay","Atul",
 	"link" : "https://www.google.com/search?q=zingat+song+&rlz=1C1YTUH_enIN1014IN1014&sxsrf=ALiCzsaMFBE3aI0niYrDY6nahmKRBcNqcA%3A1664599693924&ei=jcY3Y--BOKebseMPjauquAo&ved=0ahUKEwiv_MuLnb76AhWnTWwGHY2VCqcQ4dUDCA4&uact=5&oq=zingat+song+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBwguEAoQywEyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywE6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQsQNY-AhgmxVoAXABeACAAekBiAHbCJIBBTAuNC4ymAEAoAEByAEIwAEB&sclient=gws-wiz"
-}
+},
+{
+        "id":105,
+        "name":"Naina ",
+        "lyrics":"https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.lyricsmint.com/khoobsurat/naina-sona-mohapatra-armaan-malik&ved=2ahUKEwjmiPHBydH6AhXWCbcAHX0CBRMQFnoECDUQAQ&usg=AOvVaw1ELbU6aa2g_gEJ05XTiPj9 ",
+        "album":"Khoobsurat",
+        "Duration":"3 min 57 sec",
+        "singer":[
+         "Sona Mohapatra, Armaan Malik"
+        ],
+    "link":"https://youtu.be/9IzaWBsUhCU"
+    },
 ]
