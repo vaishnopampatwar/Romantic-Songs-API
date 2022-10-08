@@ -37,6 +37,15 @@
      ],
      "link":"https://youtu.be/zfABYXP_NSA"
   },
+  {
+   "id":53,
+   "name":"Badtameez Dil",
+   "lyrics":"https://lyricsmama.com/badtameez-dil-lyrics-yeh-jawaani-hai-deewani/",
+   "album":"Yeh Jawaani Hai Deewani",
+   "Duration":"4 min 15 sec",
+   "singer":["Benny Dayal,Shefali Alvares"],
+   "link":"https://www.youtube.com/watch?v=N0uDmkTV08Y"
+},
    {
      "id":4,
      "name":"Rabba",
