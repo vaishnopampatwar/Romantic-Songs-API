@@ -1761,11 +1761,30 @@
      "link":"https://youtu.be/PIh2xe4jnpk"
   },
 {
-	"id" : 4,
-	"name" ; "zingat",
+	"id" : 99,
+	"name" ; "zingat 0",
+	"lyrics" : "https://www.google.com/search?q=zingat+lyrics&rlz=1C1YTUH_enIN1014IN1014&oq=zingat+lyrics&aqs=chrome..69i57j0i19l4j0i19i22i30l3j0i10i19i22i30j0i19i22i30.5911j0j15&sourceid=chrome&ie=UTF-8
+	"album" : "Sairat"
+	"Duration' : "3 min 52 sec",
+	"singer" : "Ajay","Atul",
+	"link" : "https://www.google.com/search?q=zingat+song+&rlz=1C1YTUH_enIN1014IN1014&sxsrf=ALiCzsaMFBE3aI0niYrDY6nahmKRBcNqcA%3A1664599693924&ei=jcY3Y--BOKebseMPjauquAo&ved=0ahUKEwiv_MuLnb76AhWnTWwGHY2VCqcQ4dUDCA4&uact=5&oq=zingat+song+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBwguEAoQywEyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywE6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQsQNY-AhgmxVoAXABeACAAekBiAHbCJIBBTAuNC4ymAEAoAEByAEIwAEB&sclient=gws-wiz"
+},
+{
+	"id" : 100,
+	"name" ; "zingat 1",
+	"lyrics" : "https://www.google.com/search?q=zingat+lyrics&rlz=1C1YTUH_enIN1014IN1014&oq=zingat+lyrics&aqs=chrome..69i57j0i19l4j0i19i22i30l3j0i10i19i22i30j0i19i22i30.5911j0j15&sourceid=chrome&ie=UTF-8
+	"album" : "Sairat"
+	"Duration' : "3 min 52 sec",
+	"singer" : "Ajay","Atul",
+	"link" : "https://www.google.com/search?q=zingat+song+&rlz=1C1YTUH_enIN1014IN1014&sxsrf=ALiCzsaMFBE3aI0niYrDY6nahmKRBcNqcA%3A1664599693924&ei=jcY3Y--BOKebseMPjauquAo&ved=0ahUKEwiv_MuLnb76AhWnTWwGHY2VCqcQ4dUDCA4&uact=5&oq=zingat+song+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBwguEAoQywEyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywE6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQsQNY-AhgmxVoAXABeACAAekBiAHbCJIBBTAuNC4ymAEAoAEByAEIwAEB&sclient=gws-wiz"
+},
+{
+	"id" : 104,
+	"name" ; "zingat 2",
 	"lyrics" : "https://www.google.com/search?q=zingat+lyrics&rlz=1C1YTUH_enIN1014IN1014&oq=zingat+lyrics&aqs=chrome..69i57j0i19l4j0i19i22i30l3j0i10i19i22i30j0i19i22i30.5911j0j15&sourceid=chrome&ie=UTF-8
 	"album" : "Sairat"
 	"Duration' : "3 min 52 sec",
 	"singer" : "Ajay","Atul",
 	"link" : "https://www.google.com/search?q=zingat+song+&rlz=1C1YTUH_enIN1014IN1014&sxsrf=ALiCzsaMFBE3aI0niYrDY6nahmKRBcNqcA%3A1664599693924&ei=jcY3Y--BOKebseMPjauquAo&ved=0ahUKEwiv_MuLnb76AhWnTWwGHY2VCqcQ4dUDCA4&uact=5&oq=zingat+song+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBwguEAoQywEyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywE6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQsQNY-AhgmxVoAXABeACAAekBiAHbCJIBBTAuNC4ymAEAoAEByAEIwAEB&sclient=gws-wiz"
 }
+]
