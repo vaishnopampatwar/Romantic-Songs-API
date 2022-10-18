@@ -1779,6 +1779,20 @@
 	"link" : "https://www.google.com/search?q=zingat+song+&rlz=1C1YTUH_enIN1014IN1014&sxsrf=ALiCzsaMFBE3aI0niYrDY6nahmKRBcNqcA%3A1664599693924&ei=jcY3Y--BOKebseMPjauquAo&ved=0ahUKEwiv_MuLnb76AhWnTWwGHY2VCqcQ4dUDCA4&uact=5&oq=zingat+song+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBwguEAoQywEyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywE6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQsQNY-AhgmxVoAXABeACAAekBiAHbCJIBBTAuNC4ymAEAoAEByAEIwAEB&sclient=gws-wiz"
 },
 {
+
+     "id":105,
+     "name":"Dil Ko Karaar Aaya",
+     "lyrics":"https://gaana.com/lyrics/dil-ko-karaar-aaya",
+     "album":"Sukoon",
+     "Duration":"4 min 11 sec",
+     "singer":[
+        "Neha Kakkar",
+        "Yasser Desai",
+        "Rajat Nagpal"
+     ],
+     "link":"https://youtu.be/lX3vT_Gm_HE"
+  },
+
 	"id" : 104,
 	"name" ; "zingat 2",
 	"lyrics" : "https://www.google.com/search?q=zingat+lyrics&rlz=1C1YTUH_enIN1014IN1014&oq=zingat+lyrics&aqs=chrome..69i57j0i19l4j0i19i22i30l3j0i10i19i22i30j0i19i22i30.5911j0j15&sourceid=chrome&ie=UTF-8
@@ -1793,12 +1807,12 @@
 	"lyrics" : "https://www.ilyricshub.com/deva-deva-brahmastra/"
 	"album" : "Brahmastra",
 	"Duration' : "3 min 11 sec",
-	"singer" : "Pritam", "Arijit","Amitabh","Jonita",
+	"singer" : "Pritam" "Arijit" "Amitabh" "Jonita",
 	"link" : "https://www.youtube.com/watch?v=WjAPDofGg28&ab_channel=SonyMusicIndia"
 },
 {
         Lucy
-        "id":105,
+        "id":106,
         "name":"Naina ",
         "lyrics":"https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.lyricsmint.com/khoobsurat/naina-sona-mohapatra-armaan-malik&ved=2ahUKEwjmiPHBydH6AhXWCbcAHX0CBRMQFnoECDUQAQ&usg=AOvVaw1ELbU6aa2g_gEJ05XTiPj9 ",
         "album":"Khoobsurat",
@@ -1809,7 +1823,7 @@
     "link":"https://youtu.be/9IzaWBsUhCU"
 },
  {
- "id" : 105,
+ "id" : 107,
 	"name" : "Bakhuda tumhi ho",
 	"lyrics" :" https://www.azlyrics.com/lyrics/atifaslam/bakhudatumhiho.html8",
 	"album" : "Kismat Konnection",
@@ -1839,8 +1853,7 @@
 	"album" : "Hum tum",
 	"Duration" : "5 min 05 sec",
 	"singer":[
-          "Alka Yagnik",
-	  "Babul Sapriyo"
+          "Alka Yagnik","Babul Sapriyo"
        ],
 	"link" : "https://youtu.be/94XJ_F4Z71g"
 },
@@ -1851,8 +1864,7 @@
 	"album" : "Jannat",
 	"Duration" : "3 min 44 sec",
 	"singer":[
-          "KK",
-	  "Pritam"
+          "KK","Pritam"
        ],
 	"link" : "https://youtu.be/5IY4BNj0-10"
 },
@@ -1870,5 +1882,6 @@
        "link":"https://youtu.be/3rPEWcY6Oww"
 
     },
+
 
 ]
