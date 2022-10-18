@@ -1788,7 +1788,55 @@
 	"link" : "https://www.google.com/search?q=zingat+song+&rlz=1C1YTUH_enIN1014IN1014&sxsrf=ALiCzsaMFBE3aI0niYrDY6nahmKRBcNqcA%3A1664599693924&ei=jcY3Y--BOKebseMPjauquAo&ved=0ahUKEwiv_MuLnb76AhWnTWwGHY2VCqcQ4dUDCA4&uact=5&oq=zingat+song+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBwguEAoQywEyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywE6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQsQNY-AhgmxVoAXABeACAAekBiAHbCJIBBTAuNC4ymAEAoAEByAEIwAEB&sclient=gws-wiz"
 },
 {
-       "id":105,
+	"id" : 105,
+	"name" : "Bakhuda tumhi ho",
+	"lyrics" :" https://www.azlyrics.com/lyrics/atifaslam/bakhudatumhiho.html8",
+	"album" : "Kismat Konnection",
+	"Duration" : "4 min 26 sec",
+	"singer":[
+          "Atif Aslam",
+	  "Alka Yagnik"
+       ],
+	"link" : "https://youtu.be/Jpq9tm0gnTM"
+},
+{
+	"id" : 106,
+	"name" : "Arziyaan",
+	"lyrics" :" https://lyricshere4u.blogspot.com/2020/10/Arziyaan%20Lyrics%20.html",
+	"album" : "Arziyaan",
+	"Duration" : "4 min 21 sec",
+	"singer":[
+          "Vikrant Bhartiya",
+	  "Aishwarya Majumdar"
+       ],
+	"link" : "https://youtu.be/cRbd4eB4g04"
+},
+{
+	"id" : 107,
+	"name" : "Hum tum",
+	"lyrics" :"https://gaana.com/lyrics/hum-tum-2",
+	"album" : "Hum tum",
+	"Duration" : "5 min 05 sec",
+	"singer":[
+          "Alka Yagnik",
+	  "Babul Sapriyo"
+       ],
+	"link" : "https://youtu.be/94XJ_F4Z71g"
+},
+{
+	"id" : 108,
+	"name" : "Zara sa",
+	"lyrics" :"https://www.bulletlyrics.com/2020/05/zara-sa-lyrics-jannat-kk.html",
+	"album" : "Jannat",
+	"Duration" : "3 min 44 sec",
+	"singer":[
+          "KK",
+	  "Pritam"
+       ],
+	"link" : "https://youtu.be/5IY4BNj0-10"
+}
+
+       "id":109,
        "name":"Sajdaa",
        "lyrics":"https://www.indicine.com/movies/bollywood/sajda-lyrics-my-name-is-khan/",
        "album":"My Name is Khan (2010)",
