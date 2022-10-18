@@ -1810,5 +1810,18 @@
 	  "Aishwarya Majumdar"
        ],
 	"link" : "https://youtu.be/cRbd4eB4g04"
+},
+{
+	"id" : 107,
+	"name" : "Hum tum",
+	"lyrics" :"https://gaana.com/lyrics/hum-tum-2",
+	"album" : "Hum tum",
+	"Duration" : "5 min 05 sec",
+	"singer":[
+          "Alka Yagnik",
+	  "Babul Sapriyo"
+       ],
+	"link" : "https://youtu.be/94XJ_F4Z71g"
 }
+
 ]
