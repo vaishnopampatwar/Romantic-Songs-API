@@ -1811,16 +1811,25 @@
 	"link" : "https://www.google.com/search?q=zingat+song+&rlz=1C1YTUH_enIN1014IN1014&sxsrf=ALiCzsaMFBE3aI0niYrDY6nahmKRBcNqcA%3A1664599693924&ei=jcY3Y--BOKebseMPjauquAo&ved=0ahUKEwiv_MuLnb76AhWnTWwGHY2VCqcQ4dUDCA4&uact=5&oq=zingat+song+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBQgAEMsBMgUIABDLATIFCAAQywEyBwguEAoQywEyBQgAEMsBMgcIABAKEMsBMgUIABDLATIFCAAQywE6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQsQNY-AhgmxVoAXABeACAAekBiAHbCJIBBTAuNC4ymAEAoAEByAEIwAEB&sclient=gws-wiz"
 },
 {
+	"id" : 303,
+	"name" ; "Heartquake",
+	"lyrics" : "https://www.lyricslite.com/lyrics/heartquake-lyrics-karwaan-papon,
+	"album" : "Karwaan",
+	"Duration' : "3 min 40 sec",
+	"singer" : "Papon",
+	"link" : "https://www.youtube.com/watch?v=a4NGZFMhEUY"
+},
+
+{
 	"id" : 105,
 	"name" ; "Deva Deva",
-	"lyrics" : "https://www.ilyricshub.com/deva-deva-brahmastra/"
+	"lyrics" : "https://www.ilyricshub.com/deva-deva-brahmastra/",
 	"album" : "Brahmastra",
 	"Duration' : "3 min 11 sec",
 	"singer" : "Pritam" "Arijit" "Amitabh" "Jonita",
 	"link" : "https://www.youtube.com/watch?v=WjAPDofGg28&ab_channel=SonyMusicIndia"
 },
 {
-        Lucy
         "id":106,
         "name":"Naina ",
         "lyrics":"https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.lyricsmint.com/khoobsurat/naina-sona-mohapatra-armaan-malik&ved=2ahUKEwjmiPHBydH6AhXWCbcAHX0CBRMQFnoECDUQAQ&usg=AOvVaw1ELbU6aa2g_gEJ05XTiPj9 ",
@@ -1889,8 +1898,5 @@
           "Richa Sharma"
        ],
        "link":"https://youtu.be/3rPEWcY6Oww"
-
     },
 
-
-]
