@@ -1590,8 +1590,17 @@
         ],
     "link":"https://www.youtube.com/watch?v=_v_dIY-j2w0"
     },
-
-
+{
+	"id":76,
+	"name":Ishq hua",
+	"lyrics":"https://gaana.com/playlist/gaana-dj-bollywood-romantic-hits-1",
+	"album":"Romance",
+	"Duration":"10 min 09 sec",
+	"Singer":[
+	  "Sonu Nigam"
+],
+    "link":""https://www.youtube.com/watch?v=CgQn3gsrIRc"
+},
     {
        "id":29,
        "name":"Umbrealla",
