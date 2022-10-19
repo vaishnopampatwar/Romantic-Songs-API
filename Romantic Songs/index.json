@@ -1858,5 +1858,18 @@
          "Mohit Chauhan"
        ],
 	"link" : "https://youtu.be/D8XFTglfSMg"
+},
+{
+	"id" :111,
+	"name" : "Khudaya Khair",
+	"lyrics" :" https://www.indicine.com/movies/bollywood/khudaya-khair-lyrics-billu-barber/",
+	"album" : "Billu",
+	"Duration" : "5 min 00 sec",
+	"singer":[
+         "Soham Chakrabarthy",
+	  "Akruti Kakkar"	
+       ],
+	"link" : "https://youtu.be/jq69R33z4hU"
+	
 }
 ]
