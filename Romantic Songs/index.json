@@ -1871,5 +1871,18 @@
        ],
 	"link" : "https://youtu.be/jq69R33z4hU"
 	
+},
+{
+	"id" :112,
+	"name" : "Suno na Suno na",
+	"lyrics" :"https://www.lyricsoff.com/songs/suno-na-suno-na-sun-lo-na.html",
+	"album" : "Chalte Chalte",
+	"Duration" : "5 min 05 sec",
+	"singer":[
+         "Abhijeet"	
+       ],
+	"link" : "https://youtu.be/9hrV2IFsx5s"
+	
 }
+
 ]
