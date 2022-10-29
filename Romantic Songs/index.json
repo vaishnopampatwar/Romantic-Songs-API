@@ -302,6 +302,19 @@
        "link":"https://youtu.be/Umqb9KENgmk"
     },
     
+
+     {
+       "id":6,
+       "name":"O re Piya",
+       "lyrics":"https://www.lyrics.com/lyric/14718882/Rahat+Fateh+Ali+Khan",
+       "album":"Aaja Nachle",
+       "Duration":"6 min 20 sec",
+       "singer":[
+          "Rahet Fatheh Ali Khan"                   
+       ],
+       "link":"https://youtu.be/iv7lcUkFVSc"
+    }
+
     {
        "id":8,
        "name":"tum se hi",
@@ -397,6 +410,7 @@
        "link":"https://youtu.be/8JaIvZ40aJ4"
   
     },
+
     
     {
        "id":12,
